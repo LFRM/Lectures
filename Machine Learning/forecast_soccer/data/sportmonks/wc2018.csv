@@ -1,0 +1,398 @@
+,country,city,date,islocal,local,raw_score,stadium,visitant,score,op_score
+0,Egypt,Borg El Arab ,17 Nov 2015 - 18:30 Local time,True,Egypt,4-0,Borg El Arab Stadium,Chad,4,0
+1,Egypt,N'Djamena ,14 Nov 2015 - 15:30 Local time,False,Chad,1-0,Stade Omnisports Idriss Mahamat Ouya,Egypt,1,0
+2,Egypt,Brazzaville ,09 Oct 2016 - 15:30 Local time,False,Congo,1-2,New Kintele Stadium,Egypt,1,2
+3,Egypt,Borg El Arab ,13 Nov 2016 - 18:00 Local time,True,Egypt,2-0,Borg El Arab Stadium,Ghana,2,0
+4,Egypt,Kampala ,31 Aug 2017 - 16:00 Local time,False,Uganda,1-0,Mandela National Stadium,Egypt,1,0
+5,Egypt,Alexandria ,05 Sep 2017 - 20:00 Local time,True,Egypt,1-0,Alexandria Stadium,Uganda,1,0
+6,Egypt,Borg El Arab ,08 Oct 2017 - 19:00 Local time,True,Egypt,2-1,Borg El Arab Stadium,Congo,2,1
+7,Egypt,Cape Coast ,12 Nov 2017 - 15:30 Local time,False,Ghana,1-1,New Cape Coast Stadium,Egypt,1,1
+8,Morocco,Bata ,15 Nov 2015 - 16:00 Local time,False,Equatorial Guinea,1-0,Estadio de Bata (Nkoatoma),Morocco,1,0
+9,Morocco,Agadir ,12 Nov 2015 - 19:00 Local time,True,Morocco,2-0,Grand Stade d'Agadir,Equatorial Guinea,2,0
+10,Morocco,Franceville ,08 Oct 2016 - 16:00 Local time,False,Gabon,0-0,Stade de Franceville,Morocco,0,0
+11,Morocco,Marrakech,12 Nov 2016 - 20:00 Local time,True,Morocco,0-0,Le Grand Stade de Marrakech,Côte d'Ivoire,0,0
+12,Morocco,Bamako ,05 Sep 2017 - 19:00 Local time,False,Mali,0-0,Stade 26 mars (National Stadium),Morocco,0,0
+13,Morocco,Rabat ,01 Sep 2017 - 21:00 Local time,True,Morocco,6-0,Complexe Sportif Prince Moulay Abdellah,Mali,6,0
+14,Morocco,Casablanca ,07 Oct 2017 - 20:00 Local time,True,Morocco,3-0,Stade Mohamed V,Gabon,3,0
+15,Morocco,Abidjan ,11 Nov 2017 - 17:30 Local time,False,Côte d'Ivoire,0-2,Felix Houphouet-Boigny,Morocco,0,2
+16,Nigeria,Port Harcourt ,17 Nov 2015 - 16:00 Local time,True,Nigeria,2-0,Adokiye Amiesimaka Stadium,Swaziland,2,0
+17,Nigeria,Lobamba ,13 Nov 2015 - 19:00 Local time,False,Swaziland,0-0,Somhlolo National Stadium,Nigeria,0,0
+18,Nigeria,Ndola ,09 Oct 2016 - 14:30 Local time,False,Zambia,1-2,Levy Mwanawasa Stadium,Nigeria,1,2
+19,Nigeria,Uyo ,12 Nov 2016 - 17:00 Local time,True,Nigeria,3-1,Akwa Ibom Stadium,Algeria,3,1
+20,Nigeria,Yaounde ,04 Sep 2017 - 18:00 Local time,False,Cameroon,1-1,Stade Omnisports Ahmadou-Ahidjo,Nigeria,1,1
+21,Nigeria,Uyo ,01 Sep 2017 - 17:00 Local time,True,Nigeria,4-0,Akwa Ibom Stadium,Cameroon,4,0
+22,Nigeria,Uyo ,07 Oct 2017 - 17:00 Local time,True,Nigeria,1-0,Akwa Ibom Stadium,Zambia,1,0
+23,Nigeria,Constantine ,10 Nov 2017 - 20:30 Local time,False,Algeria,3-0,Stade Chahid Hamlaou,Nigeria,3,0
+24,Senegal,Dakar ,17 Nov 2015 - 19:00 Local time,True,Senegal,3-0,Stade Léopold Sédar Senghor,Madagascar,3,0
+25,Senegal,Antananarivo ,13 Nov 2015 - 14:30 Local time,False,Madagascar,2-2,Stade Municipal de Mahamasina,Senegal,2,2
+26,Senegal,Dakar ,08 Oct 2016 - 20:00 Local time,True,Senegal,2-0,Stade Léopold Sédar Senghor,Cape Verde Islands,2,0
+27,Senegal,Polokwane ,12 Nov 2016 - 15:00 Local time,False,South Africa,-:-,Peter Mokaba Stadium,Senegal,,:
+28,Senegal,Ouagadougou ,05 Sep 2017 - 18:00 Local time,False,Burkina Faso,2-2,Stade du 4 aout,Senegal,2,2
+29,Senegal,Dakar ,02 Sep 2017 - 20:00 Local time,True,Senegal,0-0,Stade Léopold Sédar Senghor,Burkina Faso,0,0
+30,Senegal,Praia ,07 Oct 2017 - 16:30 Local time,False,Cape Verde Islands,0-2,National Stadium,Senegal,0,2
+31,Senegal,Dakar ,14 Nov 2017 - 19:30 Local time,True,Senegal,2-1,Stade Léopold Sédar Senghor,South Africa,2,1
+32,Senegal,Polokwane ,10 Nov 2017 - 19:05 Local time,False,South Africa,0-2,Peter Mokaba Stadium,Senegal,0,2
+33,Tunisia,Rades ,17 Nov 2015 - 18:00 Local time,True,Tunisia,2-1,Stade Olympique de Radès,Mauritania,2,1
+34,Tunisia,Nouakchott ,13 Nov 2015 - 17:00 Local time,False,Mauritania,1-2,Stade Olympique,Tunisia,1,2
+35,Tunisia,Monastir ,09 Oct 2016 - 18:00 Local time,True,Tunisia,2-0,Mustapha Ben Jannet,Guinea,2,0
+36,Tunisia,Algiers ,11 Nov 2016 - 20:00 Local time,False,Libya,0-1,Stade Omar Hamadi,Tunisia,0,1
+37,Tunisia,Kinshasa ,05 Sep 2017 - 18:30 Local time,False,Congo DR,2-2,Stade de Martyrs,Tunisia,2,2
+38,Tunisia,Rades ,01 Sep 2017 - 21:00 Local time,True,Tunisia,2-1,Stade Olympique de Radès,Congo DR,2,1
+39,Tunisia,Conakry ,07 Oct 2017 - 17:00 Local time,False,Guinea,1-4,Stade du 28 septembre,Tunisia,1,4
+40,Tunisia,Rades ,11 Nov 2017 - 18:30 Local time,True,Tunisia,0-0,Stade Olympique de Radès,Libya,0,0
+41,Australia,Bishkek ,16 Jun 2015 - 20:00 Local time,False,Kyrgyz Republic,1-2,Dolen Omurzakov Stadium,Australia,1,2
+42,Australia,Dushanbe ,08 Sep 2015 - 18:00 Local time,False,Tajikistan,0-3,Central Republican Stadium,Australia,0,3
+43,Australia,Perth ,03 Sep 2015 - 19:00 Local time,True,Australia,5-0,Perth Oval,Bangladesh,5,0
+44,Australia,Amman ,08 Oct 2015 - 17:00 Local time,False,Jordan,2-0,Amman International Stadium,Australia,2,0
+45,Australia,Dhaka ,17 Nov 2015 - 17:30 Local time,False,Bangladesh,0-4,Bangabandhu National Stadium,Australia,0,4
+46,Australia,Canberra ,12 Nov 2015 - 20:00 Local time,True,Australia,3-0,Canberra Stadium,Kyrgyz Republic,3,0
+47,Australia,Sydney ,29 Mar 2016 - 20:00 Local time,True,Australia,5-1,Sydney Football Stadium,Jordan,5,1
+48,Australia,Adelaide ,24 Mar 2016 - 19:30 Local time,True,Australia,7-0,Adelaide Oval,Tajikistan,7,0
+49,Australia,Abu Dhabi,06 Sep 2016 - 19:30 Local time,False,United Arab Emirates,0-1,Mohammad Bin Zayed Stadium,Australia,0,1
+50,Australia,Perth ,01 Sep 2016 - 18:30 Local time,True,Australia,2-0,Perth Oval,Iraq,2,0
+51,Australia,Melbourne ,11 Oct 2016 - 20:00 Local time,False,Australia,1-1,Etihad Stadium,Japan,1,1
+52,Australia,Jeddah ,06 Oct 2016 - 20:45 Local time,False,Saudi Arabia,2-2,King Abdullah Sports City Stadium,Australia,2,2
+53,Australia,Bangkok ,15 Nov 2016 - 19:00 Local time,False,Thailand,2-2,Rajamangala National Stadium,Australia,2,2
+54,Australia,Sydney ,28 Mar 2017 - 20:00 Local time,True,Australia,2-0,Sydney Football Stadium,United Arab Emirates,2,0
+55,Australia,Tehran ,23 Mar 2017 - 16:30 Local time,False,Iraq,1-1,PAS Stadium,Australia,1,1
+56,Australia,Adelaide ,08 Jun 2017 - 19:30 Local time,False,Australia,3-2,Adelaide Oval,Saudi Arabia,3,2
+57,Australia,Saitama ,31 Aug 2017 - 19:35 Local time,False,Japan,2-0,Saitama Stadium 2002,Australia,2,0
+58,Australia,Melbourne ,05 Sep 2017 - 20:00 Local time,True,Australia,2-1,AAMI Park,Thailand,2,1
+59,Australia,Sydney ,10 Oct 2017 - 20:00 Local time,True,Australia,2-1,ANZ Stadium,Syria,2,1
+60,Australia,Krubong ,05 Oct 2017 - 20:30 Local time,False,Syria,1-1,Hang Jebat Stadium,Australia,1,1
+61,Australia,Sydney ,15 Nov 2017 - 20:00 Local time,True,Australia,3-1,ANZ Stadium,Honduras,3,1
+62,Australia,San Pedro Sula ,10 Nov 2017 - 16:00 Local time,False,Honduras,0-0,Estadio Olimpico,Australia,0,0
+63,IR Iran,Dashoguz ,16 Jun 2015 - 18:00 Local time,False,Turkmenistan,1-1,Sport Toplumy Stadium,IR Iran,1,1
+64,IR Iran,Tehran ,24 Mar 2016 - 19:00 Local time,True,IR Iran,4-0,Azadi Stadium,India,4,0
+65,IR Iran,Tehran ,28 Mar 2017 - 16:30 Local time,True,IR Iran,1-0,Azadi Stadium,China PR,1,0
+66,Japan,Saitama ,16 Jun 2015 - 19:30 Local time,True,Japan,0-0,Saitama Stadium 2002,Singapore,0,0
+67,Japan,Tehran ,08 Sep 2015 - 16:55 Local time,False,Afghanistan,0-6,Azadi Stadium,Japan,0,6
+68,Japan,Saitama ,03 Sep 2015 - 19:26 Local time,True,Japan,3-0,Saitama Stadium 2002,Cambodia,3,0
+69,Japan,Seeb ,08 Oct 2015 - 17:00 Local time,False,Syria,0-3,Seeb Stadium,Japan,0,3
+70,Japan,Phnom Penh ,17 Nov 2015 - 19:14 Local time,False,Cambodia,0-2,National Sports Complex (Olympic Stadium),Japan,0,2
+71,Japan,Singapore ,12 Nov 2015 - 19:15 Local time,False,Singapore,0-3,Singapore Sports Hub Stadium,Japan,0,3
+72,Japan,Saitama ,29 Mar 2016 - 19:34 Local time,True,Japan,5-0,Saitama Stadium 2002,Syria,5,0
+73,Japan,Saitama ,24 Mar 2016 - 19:34 Local time,True,Japan,5-0,Saitama Stadium 2002,Afghanistan,5,0
+74,Japan,Bangkok ,06 Sep 2016 - 19:15 Local time,False,Thailand,0-2,Rajamangala National Stadium,Japan,0,2
+75,Japan,Saitama ,01 Sep 2016 - 19:35 Local time,True,Japan,1-2,Saitama Stadium 2002,United Arab Emirates,1,2
+76,Japan,Melbourne ,11 Oct 2016 - 20:00 Local time,False,Australia,1-1,Etihad Stadium,Japan,1,1
+77,Japan,Saitama ,06 Oct 2016 - 19:35 Local time,True,Japan,2-1,Saitama Stadium 2002,Iraq,2,1
+78,Japan,Saitama ,15 Nov 2016 - 19:35 Local time,False,Japan,2-1,Saitama Stadium 2002,Saudi Arabia,2,1
+79,Japan,Saitama ,28 Mar 2017 - 19:35 Local time,True,Japan,4-0,Saitama Stadium 2002,Thailand,4,0
+80,Japan,Al Ain City,23 Mar 2017 - 19:30 Local time,False,United Arab Emirates,0-2,Hazza Bin Zayed Stadium,Japan,0,2
+81,Japan,Tehran ,13 Jun 2017 - 16:55 Local time,False,Iraq,1-1,PAS Stadium,Japan,1,1
+82,Japan,Saitama ,31 Aug 2017 - 19:35 Local time,False,Japan,2-0,Saitama Stadium 2002,Australia,2,0
+83,Japan,Jeddah ,05 Sep 2017 - 20:30 Local time,False,Saudi Arabia,1-0,King Abdullah Sports City Stadium,Japan,1,0
+84,Korea Republic,Bangkok ,16 Jun 2015 - 19:00 Local time,False,Myanmar,0-2,Rajamangala National Stadium,Korea Republic,0,2
+85,Korea Republic,Beirut ,08 Sep 2015 - 17:00 Local time,False,Lebanon,0-3,Municipal Stadium,Korea Republic,0,3
+86,Korea Republic,Hwaseong ,03 Sep 2015 - 20:00 Local time,True,Korea Republic,8-0,HWASEONG,Laos,8,0
+87,Korea Republic,Kuwait City ,08 Oct 2015 - 17:55 Local time,False,Kuwait,0-1,Kuwait S.C. Stadium (National Stadium),Korea Republic,0,1
+88,Korea Republic,Vientiane ,17 Nov 2015 - 19:00 Local time,False,Laos,0-5,Stade National,Korea Republic,0,5
+89,Korea Republic,Suwon ,12 Nov 2015 - 20:00 Local time,True,Korea Republic,4-0,Suwon World Cup Stadium,Myanmar,4,0
+90,Korea Republic,Ansan ,24 Mar 2016 - 20:00 Local time,True,Korea Republic,1-0,Ansan WA Stadium,Lebanon,1,0
+91,Korea Republic,Paroi ,06 Sep 2016 - 20:00 Local time,False,Syria,0-0,Tuanku Abdul Rahman Stadium,Korea Republic,0,0
+92,Korea Republic,Seoul ,01 Sep 2016 - 20:00 Local time,True,Korea Republic,3-2,Seoul World Cup Stadium,China PR,3,2
+93,Korea Republic,Tehran ,11 Oct 2016 - 18:15 Local time,False,Iran,1-0,Azadi Stadium,Korea Republic,1,0
+94,Korea Republic,Suwon ,06 Oct 2016 - 20:00 Local time,True,Korea Republic,3-2,Suwon World Cup Stadium,Qatar,3,2
+95,Korea Republic,Seoul ,15 Nov 2016 - 20:00 Local time,True,Korea Republic,2-1,Seoul World Cup Stadium,Uzbekistan,2,1
+96,Korea Republic,Seoul ,28 Mar 2017 - 20:00 Local time,True,Korea Republic,1-0,Seoul World Cup Stadium,Syria,1,0
+97,Korea Republic,Changsha ,23 Mar 2017 - 19:35 Local time,False,China PR,1-0,Helong Stadium,Korea Republic,1,0
+98,Korea Republic,Doha ,13 Jun 2017 - 22:00 Local time,False,Qatar,3-2,Jassim Bin Hamad Stadium,Korea Republic,3,2
+99,Korea Republic,Seoul ,31 Aug 2017 - 21:00 Local time,True,Korea Republic,0-0,Seoul World Cup Stadium,Iran,0,0
+100,Korea Republic,Tashkent ,05 Sep 2017 - 20:00 Local time,False,Uzbekistan,0-0,Bunyodkor Stadium,Korea Republic,0,0
+101,Saudi Arabia,Dammam ,11 Jun 2015 - 21:00 Local time,True,Saudi Arabia,3-2,Prince Mohammed Bin Fahad Bin Abdul Aziz,Palestine,3,2
+102,Saudi Arabia,Shah Alam ,08 Sep 2015 - 20:45 Local time,False,Malaysia,0-3,Shah Alam Stadium,Saudi Arabia,0,3
+103,Saudi Arabia,Jeddah ,03 Sep 2015 - 20:40 Local time,True,Saudi Arabia,7-0,King Abdullah Sports City Stadium,Timor-Leste,7,0
+104,Saudi Arabia,Jeddah ,08 Oct 2015 - 20:00 Local time,True,Saudi Arabia,2-1,King Abdullah Sports City Stadium,United Arab Emirates,2,1
+105,Saudi Arabia,Dili ,17 Nov 2015 - 16:00 Local time,False,Timor-Leste,0-10,Municipal Stadium,Saudi Arabia,0,10
+106,Saudi Arabia,Amman ,09 Nov 2015 - 16:00 Local time,False,Palestine,0-0,Amman International Stadium,Saudi Arabia,0,0
+107,Saudi Arabia,Abu Dhabi,29 Mar 2016 - 19:00 Local time,False,United Arab Emirates,1-1,Mohammad Bin Zayed Stadium,Saudi Arabia,1,1
+108,Saudi Arabia,Jeddah ,24 Mar 2016 - 20:30 Local time,True,Saudi Arabia,2-0,King Abdullah Sports City Stadium,Malaysia,2,0
+109,Saudi Arabia,Shah Alam ,06 Sep 2016 - 19:00 Local time,False,Iraq,1-2,Shah Alam Stadium,Saudi Arabia,1,2
+110,Saudi Arabia,Riyadh ,01 Sep 2016 - 20:30 Local time,True,Saudi Arabia,1-0,King Fahd International Stadium,Thailand,1,0
+111,Saudi Arabia,Jeddah ,11 Oct 2016 - 20:45 Local time,True,Saudi Arabia,3-0,King Abdullah Sports City Stadium,United Arab Emirates,3,0
+112,Saudi Arabia,Jeddah ,06 Oct 2016 - 20:45 Local time,False,Saudi Arabia,2-2,King Abdullah Sports City Stadium,Australia,2,2
+113,Saudi Arabia,Saitama ,15 Nov 2016 - 19:35 Local time,False,Japan,2-1,Saitama Stadium 2002,Saudi Arabia,2,1
+114,Saudi Arabia,Jeddah ,28 Mar 2017 - 20:30 Local time,True,Saudi Arabia,1-0,King Abdullah Sports City Stadium,Iraq,1,0
+115,Saudi Arabia,Bangkok ,23 Mar 2017 - 19:00 Local time,False,Thailand,0-3,Rajamangala National Stadium,Saudi Arabia,0,3
+116,Saudi Arabia,Adelaide ,08 Jun 2017 - 19:30 Local time,False,Australia,3-2,Adelaide Oval,Saudi Arabia,3,2
+117,Saudi Arabia,Al Ain City,29 Aug 2017 - 20:30 Local time,False,United Arab Emirates,2-1,Hazza Bin Zayed Stadium,Saudi Arabia,2,1
+118,Saudi Arabia,Jeddah ,05 Sep 2017 - 20:30 Local time,False,Saudi Arabia,1-0,King Abdullah Sports City Stadium,Japan,1,0
+119,Belgium,Nicosia ,06 Sep 2016 - 21:45 Local time,False,Cyprus,0-3,Neo GSP Stadium,Belgium,0,3
+120,Belgium,Faro ,10 Oct 2016 - 20:45 Local time,False,Gibraltar,0-6,Estadio Algarve,Belgium,0,6
+121,Belgium,Brussels ,07 Oct 2016 - 20:45 Local time,True,Belgium,4-0,Stade Roi Baudouin,Bosnia and Herzegovina,4,0
+122,Belgium,Brussels ,13 Nov 2016 - 20:45 Local time,True,Belgium,8-1,Stade Roi Baudouin,Estonia,8,1
+123,Belgium,Brussels ,25 Mar 2017 - 20:45 Local time,True,Belgium,1-1,Stade Roi Baudouin,Greece,1,1
+124,Belgium,Tallinn ,09 Jun 2017 - 21:45 Local time,False,Estonia,0-2,A. Le Coq Arena,Belgium,0,2
+125,Belgium,Liege ,31 Aug 2017 - 20:45 Local time,True,Belgium,9-0,Sclessin - Stade Maurice Dufrasne,Gibraltar,9,0
+126,Belgium,Piraeus ,03 Sep 2017 - 21:45 Local time,False,Greece,1-2,Karaiskaki Stadium,Belgium,1,2
+127,Belgium,Brussels ,10 Oct 2017 - 20:45 Local time,True,Belgium,4-0,Stade Roi Baudouin,Cyprus,4,0
+128,Belgium,Sarajevo ,07 Oct 2017 - 18:00 Local time,False,Bosnia and Herzegovina,3-4,Grbavica,Belgium,3,4
+129,Croatia,Zagreb ,05 Sep 2016 - 20:45 Local time,True,Croatia,1-1,Maksimir,Turkey,1,1
+130,Croatia,Tampere ,09 Oct 2016 - 19:00 Local time,False,Finland,0-1,Ratina Stadium (Tampere Stadium),Croatia,0,1
+131,Croatia,Shkoder ,06 Oct 2016 - 20:45 Local time,False,Kosovo,0-6,Loro Borici Stadium,Croatia,0,6
+132,Croatia,Zagreb ,12 Nov 2016 - 18:00 Local time,False,Croatia,2-0,Maksimir,Iceland,2,0
+133,Croatia,Zagreb ,24 Mar 2017 - 20:45 Local time,True,Croatia,1-0,Maksimir,Ukraine,1,0
+134,Croatia,Reykjavik ,11 Jun 2017 - 18:45 Local time,False,Iceland,1-0,Laugardalsvollur,Croatia,1,0
+135,Croatia,Eskisehir ,05 Sep 2017 - 21:45 Local time,False,Turkey,1-0,New Eskisehir Stadium,Croatia,1,0
+136,Croatia,Zagreb ,03 Sep 2017 - 14:30 Local time,True,Croatia,1-0,Maksimir,Kosovo,1,0
+137,Croatia,Kyiv ,09 Oct 2017 - 21:45 Local time,False,Ukraine,0-2,Olympic National Sports Complex,Croatia,0,2
+138,Croatia,Rijeka ,06 Oct 2017 - 20:45 Local time,True,Croatia,1-1,HNK Rijeka,Finland,1,1
+139,Croatia,Piraeus ,12 Nov 2017 - 21:45 Local time,False,Greece,0-0,Karaiskaki Stadium,Croatia,0,0
+140,Croatia,Zagreb ,09 Nov 2017 - 20:45 Local time,True,Croatia,4-1,Maksimir,Greece,4,1
+141,Denmark,Copenhagen ,04 Sep 2016 - 18:00 Local time,True,Denmark,1-0,Telia Parken,Armenia,1,0
+142,Denmark,Copenhagen ,11 Oct 2016 - 20:45 Local time,True,Denmark,0-1,Telia Parken,Montenegro,0,1
+143,Denmark,Warsaw ,08 Oct 2016 - 20:45 Local time,False,Poland,3-2,National Stadium (Narodowy),Denmark,3,2
+144,Denmark,Copenhagen ,11 Nov 2016 - 20:45 Local time,True,Denmark,4-1,Telia Parken,Kazakhstan,4,1
+145,Denmark,Cluj ,26 Mar 2017 - 21:45 Local time,False,Romania,0-0,Dr. Constantin Radulescu Stadium,Denmark,0,0
+146,Denmark,Almaty ,10 Jun 2017 - 22:00 Local time,False,Kazakhstan,1-3,Central Stadium,Denmark,1,3
+147,Denmark,Yerevan ,04 Sep 2017 - 20:00 Local time,False,Armenia,1-4,Republican Stadium,Denmark,1,4
+148,Denmark,Copenhagen ,01 Sep 2017 - 20:45 Local time,False,Denmark,4-0,Telia Parken,Poland,4,0
+149,Denmark,Copenhagen ,08 Oct 2017 - 18:00 Local time,True,Denmark,1-1,Telia Parken,Romania,1,1
+150,Denmark,Podgorica ,05 Oct 2017 - 20:45 Local time,False,Montenegro,0-1,Podgorica City Stadium,Denmark,0,1
+151,Denmark,Dublin ,14 Nov 2017 - 19:45 Local time,False,Republic of Ireland,1-5,Aviva Stadium,Denmark,1,5
+152,Denmark,Copenhagen ,11 Nov 2017 - 20:45 Local time,True,Denmark,0-0,Telia Parken,Republic of Ireland,0,0
+153,England,Trnava ,04 Sep 2016 - 18:00 Local time,False,Slovakia,0-1,Antona Malatinského,England,0,1
+154,England,Ljubliana ,11 Oct 2016 - 20:45 Local time,False,Slovenia,0-0,Sportni Park Stozice,England,0,0
+155,England,London ,08 Oct 2016 - 17:00 Local time,True,England,2-0,Wembley Stadium,Malta,2,0
+156,England,London ,11 Nov 2016 - 19:45 Local time,True,England,3-0,Wembley Stadium,Scotland,3,0
+157,England,London ,26 Mar 2017 - 17:00 Local time,True,England,2-0,Wembley Stadium,Lithuania,2,0
+158,England,Glasgow ,10 Jun 2017 - 17:00 Local time,False,Scotland,2-2,Hampden Park,England,2,2
+159,England,London ,04 Sep 2017 - 19:45 Local time,True,England,2-1,Wembley Stadium,Slovakia,2,1
+160,England,Ta'Qali ,01 Sep 2017 - 20:45 Local time,False,Malta,0-4,Ta'Qali National Stadium,England,0,4
+161,England,Vilnius ,08 Oct 2017 - 19:00 Local time,False,Lithuania,0-1,LFF Stadium,England,0,1
+162,England,London ,05 Oct 2017 - 19:45 Local time,True,England,1-0,Wembley Stadium,Slovenia,1,0
+163,France,Borisov ,06 Sep 2016 - 21:45 Local time,False,Belarus,0-0,Borisov Arena,France,0,0
+164,France,Amsterdam ,10 Oct 2016 - 20:45 Local time,False,Netherlands,0-1,Amsterdam Arena,France,0,1
+165,France,Saint-Denis ,07 Oct 2016 - 20:45 Local time,True,France,4-1,Stade de France,Bulgaria,4,1
+166,France,Saint-Denis ,11 Nov 2016 - 20:45 Local time,False,France,2-1,Stade de France,Sweden,2,1
+167,France,Luxembourg ,25 Mar 2017 - 20:45 Local time,False,Luxembourg,1-3,Josy-Barthel,France,1,3
+168,France,Solna ,09 Jun 2017 - 20:45 Local time,False,Sweden,2-1,Friends Arena,France,2,1
+169,France,Saint-Denis ,31 Aug 2017 - 20:45 Local time,True,France,4-0,Stade de France,Netherlands,4,0
+170,France,Toulouse ,03 Sep 2017 - 20:45 Local time,True,France,0-0,Stade de Toulouse,Luxembourg,0,0
+171,France,Saint-Denis ,10 Oct 2017 - 20:45 Local time,True,France,2-1,Stade de France,Belarus,2,1
+172,France,Sofia ,07 Oct 2017 - 21:45 Local time,False,Bulgaria,0-1,Vasil Levski,France,0,1
+173,Germany,Oslo ,04 Sep 2016 - 20:45 Local time,False,Norway,0-3,Ullevaal Stadium,Germany,0,3
+174,Germany,Hanover ,11 Oct 2016 - 20:45 Local time,True,Germany,2-0,Stadium Hanover,Northern Ireland,2,0
+175,Germany,Hamburg ,08 Oct 2016 - 20:45 Local time,True,Germany,3-0,Volksparkstadion,Czech Republic,3,0
+176,Germany,Serravalle ,11 Nov 2016 - 20:45 Local time,False,San Marino,0-8,San Marino Stadium,Germany,0,8
+177,Germany,Baku ,26 Mar 2017 - 20:00 Local time,False,Azerbaijan,1-4,Tofig Bahramov Stadium,Germany,1,4
+178,Germany,Nuremberg ,10 Jun 2017 - 20:45 Local time,True,Germany,7-0,Stadion Nürnberg,San Marino,7,0
+179,Germany,Stuttgart ,04 Sep 2017 - 20:45 Local time,True,Germany,6-0,Mercedes-Benz Arena,Norway,6,0
+180,Germany,Prague ,01 Sep 2017 - 20:45 Local time,False,Czech Republic,1-2,Eden Arena,Germany,1,2
+181,Germany,Kaiserslautern ,08 Oct 2017 - 20:45 Local time,True,Germany,5-1,Fritz-Walter-Stadion,Azerbaijan,5,1
+182,Germany,Belfast ,05 Oct 2017 - 19:45 Local time,False,Northern Ireland,1-3,Windsor Park,Germany,1,3
+183,Iceland,Kyiv ,05 Sep 2016 - 21:45 Local time,False,Ukraine,1-1,Olympic National Sports Complex,Iceland,1,1
+184,Iceland,Reykjavik ,09 Oct 2016 - 18:45 Local time,True,Iceland,2-0,Laugardalsvollur,Turkey,2,0
+185,Iceland,Reykjavik ,06 Oct 2016 - 18:45 Local time,True,Iceland,3-2,Laugardalsvollur,Finland,3,2
+186,Iceland,Zagreb ,12 Nov 2016 - 18:00 Local time,False,Croatia,2-0,Maksimir,Iceland,2,0
+187,Iceland,Shkoder ,24 Mar 2017 - 20:45 Local time,False,Kosovo,1-2,Loro Borici Stadium,Iceland,1,2
+188,Iceland,Reykjavik ,11 Jun 2017 - 18:45 Local time,False,Iceland,1-0,Laugardalsvollur,Croatia,1,0
+189,Iceland,Reykjavik ,05 Sep 2017 - 18:45 Local time,True,Iceland,2-0,Laugardalsvollur,Ukraine,2,0
+190,Iceland,Tampere ,02 Sep 2017 - 19:00 Local time,False,Finland,1-0,Ratina Stadium (Tampere Stadium),Iceland,1,0
+191,Iceland,Reykjavik ,09 Oct 2017 - 18:45 Local time,True,Iceland,2-0,Laugardalsvollur,Kosovo,2,0
+192,Iceland,Eskisehir ,06 Oct 2017 - 21:45 Local time,False,Turkey,0-3,New Eskisehir Stadium,Iceland,0,3
+193,Poland,Astana ,04 Sep 2016 - 22:00 Local time,False,Kazakhstan,2-2,Astana Arena,Poland,2,2
+194,Poland,Warsaw ,11 Oct 2016 - 20:45 Local time,True,Poland,2-1,National Stadium (Narodowy),Armenia,2,1
+195,Poland,Warsaw ,08 Oct 2016 - 20:45 Local time,False,Poland,3-2,National Stadium (Narodowy),Denmark,3,2
+196,Poland,Bucharest ,11 Nov 2016 - 21:45 Local time,False,Romania,0-3,National Arena,Poland,0,3
+197,Poland,Podgorica ,26 Mar 2017 - 20:45 Local time,False,Montenegro,1-2,Podgorica City Stadium,Poland,1,2
+198,Poland,Warsaw ,10 Jun 2017 - 20:45 Local time,True,Poland,3-1,National Stadium (Narodowy),Romania,3,1
+199,Poland,Warsaw ,04 Sep 2017 - 20:45 Local time,True,Poland,3-0,National Stadium (Narodowy),Kazakhstan,3,0
+200,Poland,Copenhagen ,01 Sep 2017 - 20:45 Local time,False,Denmark,4-0,Telia Parken,Poland,4,0
+201,Poland,Warsaw ,08 Oct 2017 - 18:00 Local time,True,Poland,4-2,National Stadium (Narodowy),Montenegro,4,2
+202,Poland,Yerevan ,05 Oct 2017 - 20:00 Local time,False,Armenia,1-6,Republican Stadium,Poland,1,6
+203,Portugal,Basel ,06 Sep 2016 - 20:45 Local time,False,Switzerland,2-0,St. Jakob-Park,Portugal,2,0
+204,Portugal,Torshavn ,10 Oct 2016 - 19:45 Local time,False,Faroe Islands,0-6,Torsvollur,Portugal,0,6
+205,Portugal,Aveiro ,07 Oct 2016 - 19:45 Local time,True,Portugal,6-0,Estadio Municipal,Andorra,6,0
+206,Portugal,Faro ,13 Nov 2016 - 19:45 Local time,True,Portugal,4-1,Estadio Algarve,Latvia,4,1
+207,Portugal,Lisbon ,25 Mar 2017 - 19:45 Local time,True,Portugal,3-0,Estadio da Luz,Hungary,3,0
+208,Portugal,Riga ,09 Jun 2017 - 21:45 Local time,False,Latvia,0-3,Skonto Stadium,Portugal,0,3
+209,Portugal,Porto ,31 Aug 2017 - 19:45 Local time,True,Portugal,5-1,Estádio do Bessa XXI,Faroe Islands,5,1
+210,Portugal,Budapest ,03 Sep 2017 - 20:45 Local time,False,Hungary,0-1,Groupama Arena,Portugal,0,1
+211,Portugal,Lisbon ,10 Oct 2017 - 19:45 Local time,False,Portugal,2-0,Estadio da Luz,Switzerland,2,0
+212,Portugal,Andorra La Vella ,07 Oct 2017 - 20:45 Local time,False,Andorra,0-2,Estadi Nacional,Portugal,0,2
+213,Serbia,Belgrade ,05 Sep 2016 - 20:45 Local time,True,Serbia,2-2,FK Crvena Zvezda,Republic of Ireland,2,2
+214,Serbia,Belgrade ,09 Oct 2016 - 20:45 Local time,True,Serbia,3-2,FK Crvena Zvezda,Austria,3,2
+215,Serbia,Chisinau ,06 Oct 2016 - 21:45 Local time,False,Moldova,0-3,Zimbru,Serbia,0,3
+216,Serbia,Cardiff ,12 Nov 2016 - 19:45 Local time,False,Wales,1-1,City Stadium,Serbia,1,1
+217,Serbia,Tbilisi ,24 Mar 2017 - 21:00 Local time,False,Georgia,1-3,Boris Paichadze Dinamo Arena,Serbia,1,3
+218,Serbia,Belgrade ,11 Jun 2017 - 20:45 Local time,True,Serbia,1-1,FK Crvena Zvezda,Wales,1,1
+219,Serbia,Dublin ,05 Sep 2017 - 19:45 Local time,False,Republic of Ireland,0-1,Aviva Stadium,Serbia,0,1
+220,Serbia,Belgrade ,02 Sep 2017 - 18:00 Local time,True,Serbia,3-0,Partizan Stadium,Moldova,3,0
+221,Serbia,Belgrade ,09 Oct 2017 - 20:45 Local time,True,Serbia,1-0,FK Crvena Zvezda,Georgia,1,0
+222,Serbia,Vienna ,06 Oct 2017 - 20:45 Local time,False,Austria,3-2,Ernst Happel Stadium,Serbia,3,2
+223,Spain,Leon ,05 Sep 2016 - 20:45 Local time,True,Spain,8-0,Estadio Municipal Reino de León,Liechtenstein,8,0
+224,Spain,Shkoder ,09 Oct 2016 - 20:45 Local time,False,Albania,0-2,Loro Borici Stadium,Spain,0,2
+225,Spain,Turin ,06 Oct 2016 - 20:45 Local time,False,Italy,1-1,Juventus Stadium,Spain,1,1
+226,Spain,Granada ,12 Nov 2016 - 20:45 Local time,True,Spain,4-0,Campo Los Carmenes,FYR Macedonia,4,0
+227,Spain,Gijon ,24 Mar 2017 - 20:45 Local time,True,Spain,4-1,El Molinon,Israel,4,1
+228,Spain,Skopje ,11 Jun 2017 - 20:45 Local time,False,FYR Macedonia,1-2,Philip II of Macedon National Stadium,Spain,1,2
+229,Spain,Vaduz ,05 Sep 2017 - 20:45 Local time,False,Liechtenstein,0-8,Rheinpark,Spain,0,8
+230,Spain,Madrid ,02 Sep 2017 - 20:45 Local time,True,Spain,3-0,Santiago Bernabeu,Italy,3,0
+231,Spain,Jerusalem ,09 Oct 2017 - 21:45 Local time,False,Israel,0-1,Teddy Stadium,Spain,0,1
+232,Spain,Alicante ,06 Oct 2017 - 20:45 Local time,True,Spain,3-0,Jose Rico Perez,Albania,3,0
+233,Sweden,Solna ,06 Sep 2016 - 20:45 Local time,True,Sweden,1-1,Friends Arena,Netherlands,1,1
+234,Sweden,Solna ,10 Oct 2016 - 20:45 Local time,True,Sweden,3-0,Friends Arena,Bulgaria,3,0
+235,Sweden,Luxembourg ,07 Oct 2016 - 20:45 Local time,False,Luxembourg,0-1,Josy-Barthel,Sweden,0,1
+236,Sweden,Saint-Denis ,11 Nov 2016 - 20:45 Local time,False,France,2-1,Stade de France,Sweden,2,1
+237,Sweden,Solna ,25 Mar 2017 - 18:00 Local time,True,Sweden,4-0,Friends Arena,Belarus,4,0
+238,Sweden,Solna ,09 Jun 2017 - 20:45 Local time,False,Sweden,2-1,Friends Arena,France,2,1
+239,Sweden,Sofia ,31 Aug 2017 - 21:45 Local time,False,Bulgaria,3-2,Vasil Levski,Sweden,3,2
+240,Sweden,Borisov ,03 Sep 2017 - 19:00 Local time,False,Belarus,0-4,Borisov Arena,Sweden,0,4
+241,Sweden,Amsterdam ,10 Oct 2017 - 20:45 Local time,False,Netherlands,2-0,Amsterdam Arena,Sweden,2,0
+242,Sweden,Solna ,07 Oct 2017 - 18:00 Local time,True,Sweden,8-0,Friends Arena,Luxembourg,8,0
+243,Sweden,Milan ,13 Nov 2017 - 20:45 Local time,False,Italy,0-0,Stadio Giuseppe Meazza,Sweden,0,0
+244,Sweden,Solna ,10 Nov 2017 - 20:45 Local time,True,Sweden,1-0,Friends Arena,Italy,1,0
+245,Switzerland,Basel ,06 Sep 2016 - 20:45 Local time,False,Switzerland,2-0,St. Jakob-Park,Portugal,2,0
+246,Switzerland,Andorra La Vella ,10 Oct 2016 - 20:45 Local time,False,Andorra,1-2,Estadi Nacional,Switzerland,1,2
+247,Switzerland,Budapest ,07 Oct 2016 - 20:45 Local time,False,Hungary,2-3,Groupama Arena,Switzerland,2,3
+248,Switzerland,Lucerne ,13 Nov 2016 - 18:00 Local time,True,Switzerland,2-0,Swissporarena,Faroe Islands,2,0
+249,Switzerland,Geneva ,25 Mar 2017 - 18:00 Local time,True,Switzerland,1-0,Stade de Genève,Latvia,1,0
+250,Switzerland,Torshavn ,09 Jun 2017 - 19:45 Local time,False,Faroe Islands,0-2,Torsvollur,Switzerland,0,2
+251,Switzerland,St. Gall ,31 Aug 2017 - 20:45 Local time,True,Switzerland,3-0,Kybunpark,Andorra,3,0
+252,Switzerland,Riga ,03 Sep 2017 - 21:45 Local time,False,Latvia,0-3,Skonto Stadium,Switzerland,0,3
+253,Switzerland,Lisbon ,10 Oct 2017 - 19:45 Local time,False,Portugal,2-0,Estadio da Luz,Switzerland,2,0
+254,Switzerland,Basel ,07 Oct 2017 - 20:45 Local time,True,Switzerland,5-2,St. Jakob-Park,Hungary,5,2
+255,Switzerland,Basel ,12 Nov 2017 - 18:00 Local time,True,Switzerland,0-0,St. Jakob-Park,Northern Ireland,0,0
+256,Switzerland,Belfast ,09 Nov 2017 - 19:45 Local time,False,Northern Ireland,0-1,Windsor Park,Switzerland,0,1
+257,Costa Rica,Panama City ,17 Nov 2015 - 20:30 Local time,False,Panama,1-2,Estadio Rommel Fernandez,Costa Rica,1,2
+258,Costa Rica,San Jose ,13 Nov 2015 - 20:00 Local time,True,Costa Rica,1-0,Estadio Nacional de Costa Rica,Haiti,1,0
+259,Costa Rica,San Jose ,29 Mar 2016 - 20:00 Local time,True,Costa Rica,3-0,Estadio Nacional de Costa Rica,Jamaica,3,0
+260,Costa Rica,Kingston ,25 Mar 2016 - 19:00 Local time,False,Jamaica,1-1,Independence Park (National Stadium),Costa Rica,1,1
+261,Costa Rica,San Jose ,06 Sep 2016 - 19:30 Local time,False,Costa Rica,3-1,Estadio Nacional de Costa Rica,Panama,3,1
+262,Costa Rica,Port-Au-Prince ,02 Sep 2016 - 19:00 Local time,False,Haiti,0-1,Stade Sylvio Cator,Costa Rica,0,1
+263,Costa Rica,San Jose ,15 Nov 2016 - 20:05 Local time,True,Costa Rica,4-0,Estadio Nacional de Costa Rica,USA,4,0
+264,Costa Rica,Port Of Spain ,11 Nov 2016 - 19:05 Local time,False,Trinidad and Tobago,0-2,Hasely Crawford Stadium,Costa Rica,0,2
+265,Costa Rica,San Pedro Sula ,28 Mar 2017 - 15:00 Local time,False,Honduras,1-1,Francisco Morazan,Costa Rica,1,1
+266,Costa Rica,Mexico City ,24 Mar 2017 - 19:50 Local time,False,Mexico,2-0,Estadio Azteca,Costa Rica,2,0
+267,Costa Rica,San Jose ,13 Jun 2017 - 20:00 Local time,True,Costa Rica,2-1,Estadio Nacional de Costa Rica,Trinidad and Tobago,2,1
+268,Costa Rica,San Jose ,08 Jun 2017 - 20:00 Local time,False,Costa Rica,0-0,Estadio Nacional de Costa Rica,Panama,0,0
+269,Costa Rica,San Jose ,05 Sep 2017 - 20:05 Local time,False,Costa Rica,1-1,Estadio Nacional de Costa Rica,Mexico,1,1
+270,Costa Rica,Harrison ,01 Sep 2017 - 18:55 Local time,False,USA,0-2,Red Bull Arena,Costa Rica,0,2
+271,Costa Rica,Panama City ,10 Oct 2017 - 19:00 Local time,False,Panama,2-1,Estadio Rommel Fernandez,Costa Rica,2,1
+272,Costa Rica,San Jose ,07 Oct 2017 - 16:00 Local time,True,Costa Rica,1-1,Estadio Nacional de Costa Rica,Honduras,1,1
+273,Mexico,San Pedro Sula ,17 Nov 2015 - 15:00 Local time,False,Honduras,0-2,Estadio Olimpico,Mexico,0,2
+274,Mexico,Mexico City ,13 Nov 2015 - 20:00 Local time,True,Mexico,3-0,Estadio Azteca,El Salvador,3,0
+275,Mexico,Mexico City ,29 Mar 2016 - 20:30 Local time,True,Mexico,2-0,Estadio Azteca,Canada,2,0
+276,Mexico,Vancouver ,25 Mar 2016 - 19:08 Local time,False,Canada,0-3,BC Place Stadium,Mexico,0,3
+277,Mexico,Mexico City ,06 Sep 2016 - 21:00 Local time,True,Mexico,0-0,Estadio Azteca,Honduras,0,0
+278,Mexico,San Salvador ,02 Sep 2016 - 20:06 Local time,False,El Salvador,1-3,Estadio Cuscatlan,Mexico,1,3
+279,Mexico,Panama City ,15 Nov 2016 - 21:05 Local time,False,Panama,0-0,Estadio Rommel Fernandez,Mexico,0,0
+280,Mexico,Columbus ,11 Nov 2016 - 20:01 Local time,False,USA,1-2,MAPFRE Stadium,Mexico,1,2
+281,Mexico,Port Of Spain ,28 Mar 2017 - 19:00 Local time,False,Trinidad and Tobago,0-1,Hasely Crawford Stadium,Mexico,0,1
+282,Mexico,Mexico City ,24 Mar 2017 - 19:50 Local time,False,Mexico,2-0,Estadio Azteca,Costa Rica,2,0
+283,Mexico,Mexico City ,11 Jun 2017 - 19:30 Local time,True,Mexico,1-1,Estadio Azteca,USA,1,1
+284,Mexico,Mexico City ,08 Jun 2017 - 21:00 Local time,True,Mexico,3-0,Estadio Azteca,Honduras,3,0
+285,Mexico,San Jose ,05 Sep 2017 - 20:05 Local time,False,Costa Rica,1-1,Estadio Nacional de Costa Rica,Mexico,1,1
+286,Mexico,Mexico City ,01 Sep 2017 - 20:30 Local time,False,Mexico,1-0,Estadio Azteca,Panama,1,0
+287,Mexico,San Pedro Sula ,10 Oct 2017 - 18:00 Local time,False,Honduras,3-2,Estadio Olimpico,Mexico,3,2
+288,Mexico,San Luis Potosi ,06 Oct 2017 - 20:40 Local time,True,Mexico,3-1,Estadio Alfonso Lastras,Trinidad and Tobago,3,1
+289,Panama,Panama City ,17 Nov 2015 - 20:30 Local time,False,Panama,1-2,Estadio Rommel Fernandez,Costa Rica,1,2
+290,Panama,Kingston ,13 Nov 2015 - 21:00 Local time,False,Jamaica,0-2,Independence Park (National Stadium),Panama,0,2
+291,Panama,Panama City ,29 Mar 2016 - 20:30 Local time,True,Panama,1-0,Estadio Rommel Fernandez,Haiti,1,0
+292,Panama,Port-Au-Prince ,25 Mar 2016 - 19:00 Local time,False,Haiti,0-0,Stade Sylvio Cator,Panama,0,0
+293,Panama,San Jose ,06 Sep 2016 - 19:30 Local time,False,Costa Rica,3-1,Estadio Nacional de Costa Rica,Panama,3,1
+294,Panama,Panama City ,02 Sep 2016 - 20:30 Local time,True,Panama,2-0,Estadio Rommel Fernandez,Jamaica,2,0
+295,Panama,Panama City ,15 Nov 2016 - 21:05 Local time,False,Panama,0-0,Estadio Rommel Fernandez,Mexico,0,0
+296,Panama,San Pedro Sula ,11 Nov 2016 - 14:35 Local time,False,Honduras,0-1,Estadio Olimpico,Panama,0,1
+297,Panama,Panama City ,28 Mar 2017 - 21:05 Local time,True,Panama,1-1,Estadio Rommel Fernandez,USA,1,1
+298,Panama,Port Of Spain ,24 Mar 2017 - 19:00 Local time,False,Trinidad and Tobago,1-0,Hasely Crawford Stadium,Panama,1,0
+299,Panama,Panama City ,13 Jun 2017 - 20:35 Local time,True,Panama,2-2,Estadio Rommel Fernandez,Honduras,2,2
+300,Panama,San Jose ,08 Jun 2017 - 20:00 Local time,False,Costa Rica,0-0,Estadio Nacional de Costa Rica,Panama,0,0
+301,Panama,Panama City ,05 Sep 2017 - 21:05 Local time,True,Panama,3-0,Estadio Rommel Fernandez,Trinidad and Tobago,3,0
+302,Panama,Mexico City ,01 Sep 2017 - 20:30 Local time,False,Mexico,1-0,Estadio Azteca,Panama,1,0
+303,Panama,Panama City ,10 Oct 2017 - 19:00 Local time,False,Panama,2-1,Estadio Rommel Fernandez,Costa Rica,2,1
+304,Panama,Orlando ,06 Oct 2017 - 19:35 Local time,False,USA,4-0,Orlando City Stadium,Panama,4,0
+305,Argentina,Asuncion ,13 Oct 2015 - 21:00 Local time,False,Paraguay,0-0,Defensores del Chaco,Argentina,0,0
+306,Argentina,Buenos Aires ,08 Oct 2015 - 21:00 Local time,True,Argentina,0-2,El Monumental - Estadio Monumental Antonio Vespuci,Ecuador,0,2
+307,Argentina,Barranquilla ,17 Nov 2015 - 15:30 Local time,False,Colombia,0-1,Metropolitano Roberto Melendez,Argentina,0,1
+308,Argentina,Buenos Aires ,13 Nov 2015 - 21:00 Local time,False,Argentina,1-1,El Monumental - Estadio Monumental Antonio Vespuci,Brazil,1,1
+309,Argentina,Cordoba ,29 Mar 2016 - 20:30 Local time,True,Argentina,2-0,Estadio Mario Alberto Kempes,Bolivia,2,0
+310,Argentina,Santiago De Chile ,24 Mar 2016 - 20:30 Local time,False,Chile,1-2,Estadio Nacional Julio Martínez Prádanos,Argentina,1,2
+311,Argentina,Merida ,06 Sep 2016 - 19:30 Local time,False,Venezuela,2-2,Estadio Metropolitano de Merida,Argentina,2,2
+312,Argentina,Mendoza ,01 Sep 2016 - 20:30 Local time,False,Argentina,1-0,Estadio Malvinas Argentinas,Uruguay,1,0
+313,Argentina,Cordoba ,11 Oct 2016 - 20:30 Local time,True,Argentina,0-1,Estadio Mario Alberto Kempes,Paraguay,0,1
+314,Argentina,Lima ,06 Oct 2016 - 21:15 Local time,False,Peru,2-2,Estadio Nacional,Argentina,2,2
+315,Argentina,San Juan ,15 Nov 2016 - 20:30 Local time,False,Argentina,3-0,Estadio del Bicentenario,Colombia,3,0
+316,Argentina,Belo Horizonte ,10 Nov 2016 - 21:45 Local time,False,Brazil,3-0,Estadio Mineirao,Argentina,3,0
+317,Argentina,La Paz ,28 Mar 2017 - 16:00 Local time,False,Bolivia,2-0,Hernando Siles,Argentina,2,0
+318,Argentina,Buenos Aires ,23 Mar 2017 - 20:30 Local time,True,Argentina,1-0,El Monumental - Estadio Monumental Antonio Vespuci,Chile,1,0
+319,Argentina,Montevideo ,31 Aug 2017 - 20:00 Local time,False,Uruguay,0-0,Estadio Centenario,Argentina,0,0
+320,Argentina,Buenos Aires ,05 Sep 2017 - 20:30 Local time,True,Argentina,1-1,El Monumental - Estadio Monumental Antonio Vespuci,Venezuela,1,1
+321,Argentina,Quito ,10 Oct 2017 - 18:30 Local time,False,Ecuador,1-3,Estadio Olimpico Atahualpa,Argentina,1,3
+322,Argentina,Buenos Aires ,05 Oct 2017 - 20:30 Local time,False,Argentina,0-0,La Bombonera - Estadio Alberto J. Armando,Peru,0,0
+323,Brazil,Fortaleza ,13 Oct 2015 - 22:00 Local time,True,Brazil,3-1,Estadio Castelao,Venezuela,3,1
+324,Brazil,Santiago De Chile ,08 Oct 2015 - 20:30 Local time,False,Chile,2-0,Estadio Nacional Julio Martínez Prádanos,Brazil,2,0
+325,Brazil,Salvador ,17 Nov 2015 - 21:00 Local time,False,Brazil,3-0,Arena Fonte Nova,Peru,3,0
+326,Brazil,Buenos Aires ,13 Nov 2015 - 21:00 Local time,False,Argentina,1-1,El Monumental - Estadio Monumental Antonio Vespuci,Brazil,1,1
+327,Brazil,Asuncion ,29 Mar 2016 - 20:45 Local time,False,Paraguay,2-2,Defensores del Chaco,Brazil,2,2
+328,Brazil,Recife ,25 Mar 2016 - 21:45 Local time,False,Brazil,2-2,Arena Pernambuco,Uruguay,2,2
+329,Brazil,Manaus ,06 Sep 2016 - 20:45 Local time,False,Brazil,2-1,Arena Amazonia,Colombia,2,1
+330,Brazil,Quito ,01 Sep 2016 - 16:00 Local time,False,Ecuador,0-3,Estadio Olimpico Atahualpa,Brazil,0,3
+331,Brazil,Merida ,11 Oct 2016 - 20:30 Local time,False,Venezuela,0-2,Estadio Metropolitano de Merida,Brazil,0,2
+332,Brazil,Natal ,06 Oct 2016 - 21:45 Local time,True,Brazil,5-0,Estadio das Dunas,Bolivia,5,0
+333,Brazil,Lima ,15 Nov 2016 - 21:15 Local time,False,Peru,0-2,Estadio Nacional,Brazil,0,2
+334,Brazil,Belo Horizonte ,10 Nov 2016 - 21:45 Local time,False,Brazil,3-0,Estadio Mineirao,Argentina,3,0
+335,Brazil,Sao Paulo ,28 Mar 2017 - 21:45 Local time,True,Brazil,3-0,Arena Corinthians,Paraguay,3,0
+336,Brazil,Montevideo ,23 Mar 2017 - 20:00 Local time,False,Uruguay,1-4,Estadio Centenario,Brazil,1,4
+337,Brazil,Porto Alegre ,31 Aug 2017 - 21:45 Local time,True,Brazil,2-0,Arena do Grêmio,Ecuador,2,0
+338,Brazil,Barranquilla ,05 Sep 2017 - 15:30 Local time,False,Colombia,1-1,Metropolitano Roberto Melendez,Brazil,1,1
+339,Brazil,Sao Paulo ,10 Oct 2017 - 20:30 Local time,True,Brazil,3-0,Allianz Parque,Chile,3,0
+340,Brazil,La Paz ,05 Oct 2017 - 16:00 Local time,False,Bolivia,0-0,Hernando Siles,Brazil,0,0
+341,Colombia,Montevideo ,13 Oct 2015 - 20:00 Local time,False,Uruguay,3-0,Estadio Centenario,Colombia,3,0
+342,Colombia,Barranquilla ,08 Oct 2015 - 15:30 Local time,False,Colombia,2-0,Metropolitano Roberto Melendez,Peru,2,0
+343,Colombia,Barranquilla ,17 Nov 2015 - 15:30 Local time,False,Colombia,0-1,Metropolitano Roberto Melendez,Argentina,0,1
+344,Colombia,Santiago De Chile ,12 Nov 2015 - 20:30 Local time,False,Chile,1-1,Estadio Nacional Julio Martínez Prádanos,Colombia,1,1
+345,Colombia,Barranquilla ,29 Mar 2016 - 15:30 Local time,True,Colombia,3-1,Metropolitano Roberto Melendez,Ecuador,3,1
+346,Colombia,La Paz ,24 Mar 2016 - 16:00 Local time,False,Bolivia,2-3,Hernando Siles,Colombia,2,3
+347,Colombia,Manaus ,06 Sep 2016 - 20:45 Local time,False,Brazil,2-1,Arena Amazonia,Colombia,2,1
+348,Colombia,Barranquilla ,01 Sep 2016 - 15:30 Local time,True,Colombia,2-0,Metropolitano Roberto Melendez,Venezuela,2,0
+349,Colombia,Barranquilla ,11 Oct 2016 - 15:30 Local time,False,Colombia,2-2,Metropolitano Roberto Melendez,Uruguay,2,2
+350,Colombia,Asuncion ,06 Oct 2016 - 20:30 Local time,False,Paraguay,0-1,Defensores del Chaco,Colombia,0,1
+351,Colombia,San Juan ,15 Nov 2016 - 20:30 Local time,False,Argentina,3-0,Estadio del Bicentenario,Colombia,3,0
+352,Colombia,Barranquilla ,10 Nov 2016 - 15:30 Local time,True,Colombia,0-0,Metropolitano Roberto Melendez,Chile,0,0
+353,Colombia,Quito ,28 Mar 2017 - 16:00 Local time,False,Ecuador,0-2,Estadio Olimpico Atahualpa,Colombia,0,2
+354,Colombia,Barranquilla ,23 Mar 2017 - 15:30 Local time,True,Colombia,1-0,Metropolitano Roberto Melendez,Bolivia,1,0
+355,Colombia,San Cristobal ,31 Aug 2017 - 17:00 Local time,False,Venezuela,0-0,Estadio Polideportivo de Pueblo Nuevo,Colombia,0,0
+356,Colombia,Barranquilla ,05 Sep 2017 - 15:30 Local time,False,Colombia,1-1,Metropolitano Roberto Melendez,Brazil,1,1
+357,Colombia,Lima ,10 Oct 2017 - 18:30 Local time,False,Peru,1-1,Estadio Nacional,Colombia,1,1
+358,Colombia,Barranquilla ,05 Oct 2017 - 18:30 Local time,True,Colombia,1-2,Metropolitano Roberto Melendez,Paraguay,1,2
+359,Peru,Lima ,13 Oct 2015 - 21:15 Local time,True,Peru,3-4,Estadio Nacional,Chile,3,4
+360,Peru,Barranquilla ,08 Oct 2015 - 15:30 Local time,False,Colombia,2-0,Metropolitano Roberto Melendez,Peru,2,0
+361,Peru,Salvador ,17 Nov 2015 - 21:00 Local time,False,Brazil,3-0,Arena Fonte Nova,Peru,3,0
+362,Peru,Lima ,13 Nov 2015 - 21:15 Local time,True,Peru,1-0,Estadio Nacional,Paraguay,1,0
+363,Peru,Montevideo ,29 Mar 2016 - 20:00 Local time,False,Uruguay,1-0,Estadio Centenario,Peru,1,0
+364,Peru,Lima ,24 Mar 2016 - 21:15 Local time,True,Peru,2-2,Estadio Nacional,Venezuela,2,2
+365,Peru,Lima ,06 Sep 2016 - 21:15 Local time,True,Peru,2-1,Estadio Nacional,Ecuador,2,1
+366,Peru,La Paz ,01 Sep 2016 - 16:00 Local time,False,Bolivia,0-3,Hernando Siles,Peru,0,3
+367,Peru,Santiago De Chile ,11 Oct 2016 - 20:30 Local time,False,Chile,2-1,Estadio Nacional Julio Martínez Prádanos,Peru,2,1
+368,Peru,Lima ,06 Oct 2016 - 21:15 Local time,False,Peru,2-2,Estadio Nacional,Argentina,2,2
+369,Peru,Lima ,15 Nov 2016 - 21:15 Local time,False,Peru,0-2,Estadio Nacional,Brazil,0,2
+370,Peru,Asuncion ,10 Nov 2016 - 20:30 Local time,False,Paraguay,1-4,Defensores del Chaco,Peru,1,4
+371,Peru,Lima ,28 Mar 2017 - 21:15 Local time,False,Peru,2-1,Estadio Nacional,Uruguay,2,1
+372,Peru,Maturin ,23 Mar 2017 - 19:30 Local time,False,Venezuela,2-2,Estadio Monumental de Maturin,Peru,2,2
+373,Peru,Lima ,31 Aug 2017 - 21:15 Local time,True,Peru,2-1,Monumental de Ate 'U',Bolivia,2,1
+374,Peru,Quito ,05 Sep 2017 - 16:00 Local time,False,Ecuador,1-2,Estadio Olimpico Atahualpa,Peru,1,2
+375,Peru,Lima ,10 Oct 2017 - 18:30 Local time,False,Peru,1-1,Estadio Nacional,Colombia,1,1
+376,Peru,Buenos Aires ,05 Oct 2017 - 20:30 Local time,False,Argentina,0-0,La Bombonera - Estadio Alberto J. Armando,Peru,0,0
+377,Peru,Lima ,15 Nov 2017 - 21:15 Local time,True,Peru,2-0,Estadio Nacional,New Zealand,2,0
+378,Peru,Wellington ,11 Nov 2017 - 16:15 Local time,False,New Zealand,0-0,Westpac Stadium,Peru,0,0
+379,Uruguay,Montevideo ,13 Oct 2015 - 20:00 Local time,False,Uruguay,3-0,Estadio Centenario,Colombia,3,0
+380,Uruguay,La Paz ,08 Oct 2015 - 16:00 Local time,False,Bolivia,0-2,Hernando Siles,Uruguay,0,2
+381,Uruguay,Montevideo ,17 Nov 2015 - 20:00 Local time,True,Uruguay,3-0,Estadio Centenario,Chile,3,0
+382,Uruguay,Quito ,12 Nov 2015 - 16:00 Local time,False,Ecuador,2-1,Estadio Olimpico Atahualpa,Uruguay,2,1
+383,Uruguay,Montevideo ,29 Mar 2016 - 20:00 Local time,False,Uruguay,1-0,Estadio Centenario,Peru,1,0
+384,Uruguay,Recife ,25 Mar 2016 - 21:45 Local time,False,Brazil,2-2,Arena Pernambuco,Uruguay,2,2
+385,Uruguay,Montevideo ,06 Sep 2016 - 20:00 Local time,True,Uruguay,4-0,Estadio Centenario,Paraguay,4,0
+386,Uruguay,Mendoza ,01 Sep 2016 - 20:30 Local time,False,Argentina,1-0,Estadio Malvinas Argentinas,Uruguay,1,0
+387,Uruguay,Barranquilla ,11 Oct 2016 - 15:30 Local time,False,Colombia,2-2,Metropolitano Roberto Melendez,Uruguay,2,2
+388,Uruguay,Montevideo ,06 Oct 2016 - 20:00 Local time,True,Uruguay,3-0,Estadio Centenario,Venezuela,3,0
+389,Uruguay,Santiago De Chile ,15 Nov 2016 - 20:30 Local time,False,Chile,3-1,Estadio Nacional Julio Martínez Prádanos,Uruguay,3,1
+390,Uruguay,Montevideo ,10 Nov 2016 - 20:00 Local time,True,Uruguay,2-1,Estadio Centenario,Ecuador,2,1
+391,Uruguay,Lima ,28 Mar 2017 - 21:15 Local time,False,Peru,2-1,Estadio Nacional,Uruguay,2,1
+392,Uruguay,Montevideo ,23 Mar 2017 - 20:00 Local time,False,Uruguay,1-4,Estadio Centenario,Brazil,1,4
+393,Uruguay,Montevideo ,31 Aug 2017 - 20:00 Local time,False,Uruguay,0-0,Estadio Centenario,Argentina,0,0
+394,Uruguay,Asuncion ,05 Sep 2017 - 20:00 Local time,False,Paraguay,1-2,Defensores del Chaco,Uruguay,1,2
+395,Uruguay,Montevideo ,10 Oct 2017 - 20:30 Local time,True,Uruguay,4-2,Estadio Centenario,Bolivia,4,2
+396,Uruguay,San Cristobal ,05 Oct 2017 - 17:00 Local time,False,Venezuela,0-0,Estadio Polideportivo de Pueblo Nuevo,Uruguay,0,0

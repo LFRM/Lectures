@@ -1,0 +1,43 @@
+/home/bruno/anaconda3/bin/python "/media/bruno/TOSHIBA EXT/prediction/code/sportmonks/predict/main.py"
+2017-11-20 21:02:24,838 - __main__ - INFO - Create dataset : False
+2017-11-20 21:02:24,838 - __main__ - INFO - Opening sportmonks DB
+2017-11-20 21:02:24,980 - __main__ - INFO - Beginning analysis section
+2017-11-20 21:02:24,980 - __main__ - INFO - Generating attributes and standardizing - Keep draws: True
+/home/bruno/anaconda3/lib/python3.6/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by the scale function.
+  warnings.warn(msg, _DataConversionWarning)
+2017-11-20 21:02:25,178 - __main__ - INFO - Number of attributes included: 92
+2017-11-20 21:02:25,178 - __main__ - INFO - Number of obs: 9966
+2017-11-20 21:02:25,178 - __main__ - INFO - Training models: Logit_Lasso
+2017-11-20 21:13:29,062 - predict - INFO - Logit_Lasso_0.001 -- Mean: 0.378 -- std: 9.8e-05
+2017-11-20 21:13:29,062 - predict - INFO - Logit_Lasso_0.01 -- Mean: 0.506 -- std: 0.0206
+2017-11-20 21:13:29,062 - predict - INFO - Logit_Lasso_0.05 -- Mean: 0.512 -- std: 0.0161
+2017-11-20 21:13:29,062 - predict - INFO - Logit_Lasso_0.1 -- Mean: 0.512 -- std: 0.0191
+2017-11-20 21:13:29,062 - predict - INFO - Logit_Lasso_0.2 -- Mean: 0.512 -- std: 0.022
+2017-11-20 21:13:29,063 - predict - INFO - Logit_Lasso_1 -- Mean: 0.51 -- std: 0.0225
+2017-11-20 21:13:29,063 - predict - INFO - Logit_Lasso_10 -- Mean: 0.508 -- std: 0.0243
+2017-11-20 21:13:29,063 - predict - INFO - Logit_Lasso_100 -- Mean: 0.508 -- std: 0.0244
+2017-11-20 21:13:29,063 - __main__ - INFO - Training models: SVM
+........ 
+........ 
+2017-11-20 21:34:46,299 - predict - INFO - SVM_0.001 -- Mean: 0.487 -- std: 0.0159
+2017-11-20 21:34:46,299 - predict - INFO - SVM_0.01 -- Mean: 0.503 -- std: 0.0171
+2017-11-20 21:34:46,299 - predict - INFO - SVM_0.05 -- Mean: 0.509 -- std: 0.0175
+2017-11-20 21:34:46,299 - predict - INFO - SVM_0.1 -- Mean: 0.511 -- std: 0.0174
+2017-11-20 21:34:46,300 - predict - INFO - SVM_0.2 -- Mean: 0.486 -- std: 0.0179
+2017-11-20 21:34:46,300 - predict - INFO - SVM_1 -- Mean: 0.427 -- std: 0.0218
+2017-11-20 21:34:46,300 - predict - INFO - SVM_10 -- Mean: 0.399 -- std: 0.0252
+2017-11-20 21:34:46,300 - predict - INFO - SVM_100 -- Mean: 0.399 -- std: 0.0279
+2017-11-20 21:34:46,300 - __main__ - INFO - Training models: AdaBoost
+ 
+2017-11-20 21:35:18,550 - predict - INFO - AdaBoost -- Mean: 0.485 -- std: 0.019
+2017-11-20 21:35:18,550 - __main__ - INFO - Training models: xgBoost
+2017-11-20 21:35:54,441 - predict - INFO - xgBoost -- Mean: 0.51 -- std: 0.017
+2017-11-20 21:35:54,441 - __main__ - INFO - Training models: TreeBoost
+ 
+ 
+2017-11-20 21:36:01,705 - predict - INFO - TreeBoost -- Mean: 0.489 -- std: 0.0201
+2017-11-20 21:36:01,705 - __main__ - DEBUG - Excecution took a raw time of 2016.86643 seconds
+2017-11-20 21:36:01,705 - __main__ - INFO - Excecution took 0 hours, 33 minutes and 37 seconds
+
+Process finished with exit code 0
+

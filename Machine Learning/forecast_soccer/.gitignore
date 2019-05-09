@@ -1,0 +1,10 @@
+reports/
+beamer/
+data/misc/
+code/google/
+code/ipython-soccer-predictions-master.zip
+code/test/
+python-sportmonks/
+.idea/
+*.pyc
+_credentials*

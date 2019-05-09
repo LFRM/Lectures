@@ -1,0 +1,96 @@
+/home/bruno/anaconda3/bin/python "/media/bruno/TOSHIBA EXT/prediction/code/sportmonks/predict/main.py"
+
+2017-11-09 00:00:58,561 - __main__ - INFO - Create dataset : False
+
+2017-11-09 00:00:58,562 - __main__ - INFO - Opening sportmonks DB
+
+2017-11-09 00:00:58,705 - __main__ - INFO - Beginning analysis section
+
+2017-11-09 00:00:58,705 - __main__ - INFO - Generating attributes and standardizing - Keep draws: True
+
+/home/bruno/anaconda3/lib/python3.6/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by the scale function.
+  warnings.warn(msg, _DataConversionWarning)
+
+2017-11-09 00:00:58,910 - __main__ - INFO - Number of attributes included: 92
+
+2017-11-09 00:00:58,911 - __main__ - INFO - Number of obs: 9966
+
+2017-11-09 00:00:58,911 - __main__ - INFO - Training models: Neural Network
+........ 
+
+}2017-11-09 00:08:41,478 - predict - INFO - NN_(10, 5) -- Mean: 0.477 -- std: 0.0218
+
+2017-11-09 00:08:41,478 - predict - INFO - NN_(20, 10) -- Mean: 0.455 -- std: 0.0216
+
+2017-11-09 00:08:41,478 - predict - INFO - NN_(30, 10) -- Mean: 0.42 -- std: 0.019
+
+2017-11-09 00:08:41,478 - predict - INFO - NN_(50, 10) -- Mean: 0.416 -- std: 0.0148
+
+2017-11-09 00:08:41,478 - predict - INFO - NN_(100, 10) -- Mean: 0.402 -- std: 0.0127
+
+2017-11-09 00:08:41,478 - predict - INFO - NN_(100, 20) -- Mean: 0.403 -- std: 0.0228
+
+2017-11-09 00:08:41,479 - predict - INFO - NN_(100, 30) -- Mean: 0.401 -- std: 0.0228
+
+2017-11-09 00:08:41,479 - predict - INFO - NN_(100, 50, 10) -- Mean: 0.401 -- std: 0.02
+
+2017-11-09 00:08:41,479 - __main__ - INFO - Training models: Logit
+........ 
+
+2017-11-09 00:10:20,427 - predict - INFO - Logit_0.001 -- Mean: 0.508 -- std: 0.0197
+
+2017-11-09 00:10:20,427 - predict - INFO - Logit_0.01 -- Mean: 0.511 -- std: 0.0209
+
+2017-11-09 00:10:20,427 - predict - INFO - Logit_0.05 -- Mean: 0.509 -- std: 0.0196
+
+2017-11-09 00:10:20,427 - predict - INFO - Logit_0.1 -- Mean: 0.51 -- std: 0.0215
+
+2017-11-09 00:10:20,427 - predict - INFO - Logit_0.2 -- Mean: 0.51 -- std: 0.0226
+
+2017-11-09 00:10:20,428 - predict - INFO - Logit_1 -- Mean: 0.509 -- std: 0.0241
+
+2017-11-09 00:10:20,428 - predict - INFO - Logit_10 -- Mean: 0.508 -- std: 0.0242
+
+2017-11-09 00:10:20,428 - predict - INFO - Logit_100 -- Mean: 0.507 -- std: 0.0242
+
+2017-11-09 00:10:20,428 - __main__ - INFO - Training models: Logit_Lasso
+........ 
+
+2017-11-09 00:21:29,422 - predict - INFO - Logit_Lasso_0.001 -- Mean: 0.378 -- std: 9.8e-05
+
+2017-11-09 00:21:29,422 - predict - INFO - Logit_Lasso_0.01 -- Mean: 0.506 -- std: 0.0206
+
+2017-11-09 00:21:29,422 - predict - INFO - Logit_Lasso_0.05 -- Mean: 0.512 -- std: 0.0161
+
+2017-11-09 00:21:29,422 - predict - INFO - Logit_Lasso_0.1 -- Mean: 0.512 -- std: 0.0191
+
+2017-11-09 00:21:29,422 - predict - INFO - Logit_Lasso_0.2 -- Mean: 0.512 -- std: 0.022
+
+2017-11-09 00:21:29,423 - predict - INFO - Logit_Lasso_1 -- Mean: 0.51 -- std: 0.0225
+
+2017-11-09 00:21:29,423 - predict - INFO - Logit_Lasso_10 -- Mean: 0.508 -- std: 0.0241
+
+2017-11-09 00:21:29,423 - predict - INFO - Logit_Lasso_100 -- Mean: 0.508 -- std: 0.0246
+
+2017-11-09 00:21:29,423 - __main__ - INFO - Training models: SVM
+
+2017-11-09 00:49:28,580 - predict - INFO - SVM_0.001 -- Mean: 0.496 -- std: 0.0156
+
+2017-11-09 00:49:28,580 - predict - INFO - SVM_0.01 -- Mean: 0.497 -- std: 0.0158
+........ 
+
+2017-11-09 00:49:28,580 - predict - INFO - SVM_0.05 -- Mean: 0.508 -- std: 0.0176
+
+2017-11-09 00:49:28,580 - predict - INFO - SVM_0.1 -- Mean: 0.509 -- std: 0.0199
+
+2017-11-09 00:49:28,580 - predict - INFO - SVM_0.2 -- Mean: 0.51 -- std: 0.0198
+
+2017-11-09 00:49:28,580 - predict - INFO - SVM_1 -- Mean: 0.508 -- std: 0.0174
+
+2017-11-09 00:49:28,581 - predict - INFO - SVM_10 -- Mean: 0.436 -- std: 0.0276
+
+2017-11-09 00:49:28,581 - predict - INFO - SVM_100 -- Mean: 0.43 -- std: 0.0277
+
+2017-11-09 00:49:28,581 - __main__ - DEBUG - Excecution took a raw time of 2910.01939 seconds
+
+2017-11-09 00:49:28,581 - __main__ - INFO - Excecution took 0 hours, 48 minutes and 30 seconds

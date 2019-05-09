@@ -1,0 +1,504 @@
+,team_name,google_expected_goals,google_op_expected_goals,op_team_name,predicted,expected,winner,points
+0,Montreal Impact,1.545623,1.018667,Chivas USA,50.328762458062315,Chivas USA,Chivas USA,0
+1,D.C. United,0.771262,0.799924,Toronto FC,38.57759589074794,Toronto FC,D.C. United,3
+2,Houston Dynamo,0.8424809999999999,1.485522,Montreal Impact,49.27060831694567,Montreal Impact,Montreal Impact,0
+3,Vancouver Whitecaps,1.446081,1.489781,Colorado Rapids,25.406824033933873,Colorado Rapids,Colorado Rapids,0
+4,Philadelphia Union,1.561974,1.512565,New England Revolution,35.42293592815782,New England Revolution,Philadelphia Union,3
+5,Sporting Kansas City,0.956666,0.9983190000000001,Portland Timbers,35.69602624313517,Portland Timbers,Sporting Kansas City,3
+6,D.C. United,0.75553,1.105702,Montreal Impact,27.475168619668505,Montreal Impact,D.C. United,3
+7,New York Red Bulls,1.116333,0.671871,New England Revolution,46.083154077055724,New England Revolution,New York Red Bulls,3
+8,Colorado Rapids,1.298241,0.700216,FC Dallas,57.488215468049084,FC Dallas,FC Dallas,0
+9,Vancouver Whitecaps,1.381207,1.067984,Portland Timbers,48.80928048208496,Portland Timbers,Vancouver Whitecaps,3
+10,Houston Dynamo,1.0356049999999999,1.296348,Colorado Rapids,24.37694752586316,Colorado Rapids,Colorado Rapids,0
+11,Philadelphia Union,1.048092,1.770091,Chivas USA,53.7632609959905,Chivas USA,Philadelphia Union,3
+12,Sporting Kansas City,1.215754,1.001762,D.C. United,75.70587083704567,Sporting Kansas City,D.C. United,0
+13,Real Salt Lake,1.327386,1.229798,Seattle Sounders FC,36.59345228885093,Seattle Sounders FC,Seattle Sounders FC,0
+14,Houston Dynamo,1.06285,1.1386479999999999,San Jose Earthquakes,51.32424976763017,San Jose Earthquakes,San Jose Earthquakes,0
+15,Philadelphia Union,0.968842,1.351803,LA Galaxy,25.257563819174795,LA Galaxy,LA Galaxy,0
+16,Portland Timbers,1.3287360000000001,1.4352479999999999,New York Red Bulls,39.828422445014226,New York Red Bulls,Portland Timbers,3
+17,FC Dallas,1.08522,1.489966,LA Galaxy,23.585744406334584,LA Galaxy,LA Galaxy,0
+18,Getafe,1.2493040000000002,1.2108290000000002,Rayo Vallecano,32.210766586591674,Rayo Vallecano,Getafe,3
+19,Granada CF,0.734215,1.5273370000000002,Real Valladolid,35.77500515492893,Real Valladolid,Granada CF,3
+20,Real Betis,1.317024,1.696129,Osasuna,35.61298223352396,Osasuna,Osasuna,0
+21,New York Red Bulls,1.577587,0.9853649999999999,Toronto FC,68.92096650900123,New York Red Bulls,Toronto FC,0
+22,Philadelphia Union,0.6633359999999999,1.171194,Sporting Kansas City,30.87983409949758,Sporting Kansas City,Philadelphia Union,3
+23,Real Salt Lake,1.147814,1.270752,Houston Dynamo,48.20588321152225,Houston Dynamo,Real Salt Lake,3
+24,Sevilla,1.279798,0.656515,Getafe,59.58375966561108,Sevilla,Getafe,0
+25,Almería,0.8968290000000001,1.983164,Granada CF,39.97718808743829,Granada CF,Almería,3
+26,Real Valladolid,1.277673,1.1022,Real Betis,41.584240836257266,Real Betis,Real Betis,0
+27,Real Madrid,2.273075,0.624845,Celta de Vigo,76.3503339473791,Real Madrid,Celta de Vigo,0
+28,Chicago Fire,1.7434029999999998,1.182603,New York Red Bulls,26.35700086029859,New York Red Bulls,Chicago Fire,3
+29,Rayo Vallecano,1.369349,1.3428959999999999,Villarreal,34.807512478509196,Villarreal,Villarreal,0
+30,Columbus Crew,0.822189,1.4513850000000001,Houston Dynamo,21.346536186772326,Houston Dynamo,Houston Dynamo,0
+31,Columbus Crew,0.775836,1.3985969999999999,Sporting Kansas City,19.767179573774072,Sporting Kansas City,Sporting Kansas City,0
+32,Philadelphia Union,0.659849,1.278059,Seattle Sounders FC,23.031732110828194,Seattle Sounders FC,Seattle Sounders FC,0
+33,San Jose Earthquakes,1.3638059999999999,1.138103,Vancouver Whitecaps,23.779331466257272,Vancouver Whitecaps,Vancouver Whitecaps,0
+34,Espanyol,0.894291,1.505096,Real Valladolid,33.33577092343694,Real Valladolid,Real Valladolid,0
+35,Elche,0.669148,0.80011,Málaga,53.86047436589722,Málaga,Elche,3
+36,Real Valladolid,0.720683,1.1000969999999999,Celta de Vigo,33.15215935665653,Celta de Vigo,Celta de Vigo,0
+37,Barcelona,1.969237,1.178275,Villarreal,88.75535667651879,Barcelona,Barcelona,3
+38,Sevilla,1.3527559999999998,0.8619760000000001,Athletic Club,38.73862384533324,Athletic Club,Athletic Club,0
+39,Chivas USA,0.840464,1.3352469999999999,San Jose Earthquakes,20.07530411549726,San Jose Earthquakes,San Jose Earthquakes,0
+40,FC Dallas,1.346586,1.1588370000000001,D.C. United,66.71810643596294,FC Dallas,D.C. United,0
+41,Real Sociedad,1.356863,1.175794,Real Betis,52.2026572015022,Real Betis,Real Sociedad,3
+42,Philadelphia Union,0.733162,1.216121,Montreal Impact,56.90494149459098,Montreal Impact,Montreal Impact,0
+43,Osasuna,0.860809,0.849281,Real Madrid,11.673972804691712,Real Madrid,Real Madrid,0
+44,Real Betis,0.8931120000000001,0.965564,Rayo Vallecano,30.886634537307643,Rayo Vallecano,Rayo Vallecano,0
+45,Toronto FC,1.181797,0.8676450000000001,FC Dallas,17.787358686630046,FC Dallas,FC Dallas,0
+46,Espanyol,0.931775,1.3701,Real Sociedad,26.781530171897554,Real Sociedad,Real Sociedad,0
+47,Elche,0.589912,0.686392,Atlético de Madrid,28.18445695358738,Atlético de Madrid,Atlético de Madrid,0
+48,Atlético de Madrid,1.225998,0.48482700000000006,Getafe,76.20603138450251,Atlético de Madrid,Atlético de Madrid,3
+49,Vancouver Whitecaps,1.110846,0.904226,LA Galaxy,32.469846256298844,LA Galaxy,LA Galaxy,0
+50,New York Red Bulls,1.612567,1.358226,D.C. United,65.2874415458125,New York Red Bulls,D.C. United,0
+51,Espanyol,0.991139,1.262299,Sevilla,26.3559283926265,Sevilla,Sevilla,0
+52,FC Dallas,1.296925,1.261348,Houston Dynamo,39.07934161285031,Houston Dynamo,FC Dallas,3
+53,Colorado Rapids,0.789524,1.047398,Vancouver Whitecaps,44.1175453161714,Vancouver Whitecaps,Colorado Rapids,3
+54,Toronto FC,1.327224,0.74026,Real Salt Lake,10.312253855153177,Real Salt Lake,Real Salt Lake,0
+55,Portland Timbers,1.094814,1.528345,FC Dallas,38.32739787456869,FC Dallas,FC Dallas,0
+56,Houston Dynamo,1.251298,1.097697,Vancouver Whitecaps,32.00506601934684,Vancouver Whitecaps,Vancouver Whitecaps,0
+57,Atlético de Madrid,1.201438,0.876108,Athletic Club,60.09726329702384,Atlético de Madrid,Atlético de Madrid,3
+58,Sevilla,1.235348,0.89107,Celta de Vigo,42.634451151081926,Celta de Vigo,Celta de Vigo,0
+59,Real Betis,0.960656,0.701095,Levante,49.00564304349793,Levante,Real Betis,3
+60,Villarreal,0.9326049999999999,1.138898,Getafe,53.35268536621205,Getafe,Villarreal,3
+61,Granada CF,0.9025270000000001,1.441252,Atlético de Madrid,13.527158849438095,Atlético de Madrid,Atlético de Madrid,0
+62,Real Madrid,2.047255,0.564819,Sevilla,63.01695849333079,Real Madrid,Sevilla,0
+63,Celta de Vigo,1.009477,1.374277,Barcelona,3.099700880007111,Barcelona,Barcelona,0
+64,Osasuna,1.126591,1.242638,Rayo Vallecano,37.96178144937177,Rayo Vallecano,Rayo Vallecano,0
+65,Espanyol,1.3089469999999999,1.2178639999999998,Málaga,27.85013938694546,Málaga,Espanyol,3
+66,Real Sociedad,1.089521,0.9903129999999999,Almería,55.31694507855603,Almería,Almería,0
+67,Seattle Sounders FC,1.418827,0.997481,Montreal Impact,73.07342263500641,Seattle Sounders FC,Seattle Sounders FC,3
+68,Villarreal,0.9235180000000001,0.9776790000000001,Valencia,38.44874205924599,Valencia,Valencia,0
+69,Atlético de Madrid,1.117167,0.881443,Real Betis,68.26424378093257,Atlético de Madrid,Atlético de Madrid,3
+70,San Jose Earthquakes,1.81233,1.080064,Sporting Kansas City,34.397186424527,Sporting Kansas City,Sporting Kansas City,0
+71,Valencia,1.424203,0.763253,Real Sociedad,40.857100705986966,Real Sociedad,Real Sociedad,0
+72,Montreal Impact,1.0585930000000001,1.405635,Houston Dynamo,18.304969764927748,Houston Dynamo,Houston Dynamo,0
+73,Espanyol,1.251327,1.2014340000000001,Atlético de Madrid,12.265728577825964,Atlético de Madrid,Atlético de Madrid,0
+74,New England Revolution,1.0548110000000002,1.751707,Philadelphia Union,30.40262810168432,Philadelphia Union,Philadelphia Union,0
+75,Rayo Vallecano,0.97139,1.261407,Real Sociedad,32.28831964811897,Real Sociedad,Rayo Vallecano,3
+76,Málaga,0.94509,1.427023,Osasuna,44.687371512618476,Osasuna,Málaga,3
+77,Chicago Fire,1.76885,1.6267280000000002,Chivas USA,64.73163838078914,Chicago Fire,Chivas USA,0
+78,Elche,0.813867,1.0108709999999999,Espanyol,60.76860663035299,Elche,Espanyol,0
+79,Sporting Kansas City,1.8000040000000002,0.748579,Seattle Sounders FC,31.675559229840843,Seattle Sounders FC,Seattle Sounders FC,0
+80,Atlético de Madrid,1.533305,0.980195,Celta de Vigo,62.90753179807533,Atlético de Madrid,Atlético de Madrid,3
+81,Barcelona,2.2815090000000002,1.090154,Real Valladolid,93.98738900798686,Barcelona,Real Valladolid,0
+82,Almería,0.701732,0.631726,Barcelona,3.065087552607656,Barcelona,Barcelona,0
+83,Valencia,1.6097270000000001,0.778875,Rayo Vallecano,53.786336003176835,Rayo Vallecano,Rayo Vallecano,0
+84,Real Sociedad,1.130427,1.361302,Sevilla,33.347691235060154,Sevilla,Sevilla,0
+85,Osasuna,0.7325550000000001,1.474359,Levante,43.22798843552448,Levante,Levante,0
+86,Sevilla,1.19036,0.930428,Rayo Vallecano,51.48233115590407,Rayo Vallecano,Sevilla,3
+87,Elche,1.1461430000000001,0.729916,Real Madrid,16.703161836990763,Real Madrid,Real Madrid,0
+88,Real Sociedad,1.167885,1.4565620000000001,Málaga,39.801983032071384,Málaga,Real Sociedad,3
+89,Real Madrid,1.9995189999999998,0.25859899999999997,Getafe,84.01382484794736,Real Madrid,Real Madrid,3
+90,Barcelona,1.589365,0.820567,Sevilla,90.65352624445447,Barcelona,Barcelona,3
+91,Atlético de Madrid,1.500945,0.776984,Almería,74.92258218754245,Atlético de Madrid,Almería,0
+92,Málaga,0.910608,1.550014,Rayo Vallecano,45.305149993435265,Rayo Vallecano,Rayo Vallecano,0
+93,Real Betis,1.3988450000000001,1.293718,Valencia,34.287214968890076,Valencia,Valencia,0
+94,Osasuna,0.6978340000000001,1.741127,Villarreal,29.1477748036111,Villarreal,Villarreal,0
+95,Real Sociedad,1.630923,1.356392,Atlético de Madrid,18.006467240671736,Atlético de Madrid,Atlético de Madrid,0
+96,Almería,1.1947809999999999,1.358638,Elche,16.350189363018956,Elche,Elche,0
+97,Sevilla,1.324759,0.812037,Málaga,37.43639463863032,Málaga,Málaga,0
+98,Valencia,1.181577,1.004969,Barcelona,4.628497007261304,Barcelona,Valencia,3
+99,Málaga,1.0504120000000001,1.01261,Barcelona,5.499665782399045,Barcelona,Barcelona,0
+100,Granada CF,1.5052590000000001,1.239555,Real Madrid,10.38840626156657,Real Madrid,Real Madrid,0
+101,Real Valladolid,0.70429,1.884896,Athletic Club,21.60884298212473,Athletic Club,Athletic Club,0
+102,Rayo Vallecano,1.318542,2.1478080000000004,Elche,20.642566410006854,Elche,Elche,0
+103,Málaga,1.029125,1.442353,Levante,43.29739764664334,Levante,Levante,0
+104,Real Madrid,2.61098,0.9141379999999999,Espanyol,78.34438968322355,Real Madrid,Real Madrid,3
+105,Rayo Vallecano,1.287544,2.13564,Getafe,47.30472352452334,Getafe,Rayo Vallecano,3
+106,Almería,1.228906,2.110261,Athletic Club,17.438640353164818,Athletic Club,Athletic Club,0
+107,Athletic Club,1.79997,0.9542010000000001,Real Sociedad,29.53754917858959,Real Sociedad,Real Sociedad,0
+108,Espanyol,0.9885360000000001,1.141902,Osasuna,37.80495312825845,Osasuna,Osasuna,0
+109,Getafe,0.511325,1.905916,Sevilla,24.517825243794867,Sevilla,Sevilla,0
+110,Levante,0.999189,1.345693,Valencia,22.309163469231535,Valencia,Valencia,0
+111,Atlético de Madrid,1.9507619999999999,0.36573,Málaga,71.70660198173064,Atlético de Madrid,Atlético de Madrid,3
+112,Rayo Vallecano,1.3548799999999999,1.6012110000000002,Athletic Club,34.10127133927222,Athletic Club,Athletic Club,0
+113,Almería,1.0090620000000001,1.997613,Real Betis,34.774771628414626,Real Betis,Almería,3
+114,Villarreal,1.6687560000000001,0.902483,Barcelona,8.52756758298642,Barcelona,Barcelona,0
+115,Granada CF,1.14026,1.203159,Rayo Vallecano,33.7893900136045,Rayo Vallecano,Granada CF,3
+116,Elche,0.656271,1.501306,Levante,50.56476672803719,Levante,Levante,0
+117,Barcelona,1.936077,0.972052,Athletic Club,85.50220592176406,Barcelona,Athletic Club,0
+118,Sevilla,1.487184,0.9381879999999999,Granada CF,49.91531690568924,Granada CF,Sevilla,3
+119,Levante,0.921056,1.666639,Getafe,41.54638530257816,Getafe,Getafe,0
+120,Villarreal,1.298486,0.853816,Levante,49.40429096478346,Levante,Villarreal,3
+121,Osasuna,1.064656,1.448141,Real Valladolid,33.872152489207366,Real Valladolid,Osasuna,3
+122,Barcelona,1.763727,0.724362,Real Betis,92.00849474350693,Barcelona,Barcelona,3
+123,Real Sociedad,1.53168,0.839369,Real Madrid,19.0275833074195,Real Madrid,Real Madrid,0
+124,Almería,0.994085,1.3023040000000001,Osasuna,40.93608282933867,Osasuna,Almería,3
+125,Athletic Club,1.5175020000000001,1.02119,Atlético de Madrid,18.45619367572043,Atlético de Madrid,Atlético de Madrid,0
+126,Valencia,1.241291,1.553482,Getafe,46.33891195385843,Getafe,Valencia,3
+127,Sporting Kansas City,1.243932,0.598939,New England Revolution,45.06197584404962,New England Revolution,New England Revolution,0
+128,Real Madrid,1.958794,1.231219,Rayo Vallecano,68.17557734374084,Real Madrid,Real Madrid,3
+129,Osasuna,1.173562,1.17929,Real Sociedad,35.83630902594798,Real Sociedad,Real Sociedad,0
+130,Montreal Impact,0.7405729999999999,1.513686,Houston Dynamo,15.936732297996103,Houston Dynamo,Houston Dynamo,0
+131,Barcelona,2.293683,1.07618,Celta de Vigo,91.10793900137489,Barcelona,Barcelona,3
+132,Colorado Rapids,0.8894920000000001,1.369333,Vancouver Whitecaps,38.36387878318012,Vancouver Whitecaps,Vancouver Whitecaps,0
+133,New England Revolution,1.1708,1.107769,Columbus Crew,56.774780703541374,Columbus Crew,New England Revolution,3
+134,Real Betis,1.465048,0.876811,Atlético de Madrid,14.127443011055195,Atlético de Madrid,Atlético de Madrid,0
+135,Montreal Impact,0.818915,1.477425,Toronto FC,51.26450947454859,Toronto FC,Toronto FC,0
+136,Espanyol,1.007298,0.9862709999999999,Levante,38.00727007148436,Levante,Levante,0
+137,Sporting Kansas City,0.979416,0.556029,Philadelphia Union,46.05641705072292,Philadelphia Union,Sporting Kansas City,3
+138,Levante,1.051625,1.591909,Celta de Vigo,41.537174649515414,Celta de Vigo,Levante,3
+139,Getafe,1.050772,1.619569,Granada CF,34.8639173553902,Granada CF,Getafe,3
+140,Toronto FC,0.9198540000000001,1.3302459999999998,Chicago Fire,17.015395891320363,Chicago Fire,Chicago Fire,0
+141,Columbus Crew,1.1621540000000001,1.409354,New England Revolution,21.948410492701385,New England Revolution,New England Revolution,0
+142,Atlético de Madrid,2.3909119999999997,0.8005720000000001,Espanyol,75.14512243336424,Atlético de Madrid,Espanyol,0
+143,D.C. United,0.909689,1.706961,Sporting Kansas City,10.550242610053052,Sporting Kansas City,Sporting Kansas City,0
+144,Seattle Sounders FC,1.433455,1.146715,Portland Timbers,43.51478227832447,Portland Timbers,Portland Timbers,0
+145,Colorado Rapids,1.1851690000000001,1.141952,San Jose Earthquakes,54.37981273391485,San Jose Earthquakes,San Jose Earthquakes,0
+146,Seattle Sounders FC,0.999482,0.69397,Colorado Rapids,35.27367180327657,Colorado Rapids,Colorado Rapids,0
+147,Toronto FC,0.765735,1.308422,Philadelphia Union,15.456199300340835,Philadelphia Union,Philadelphia Union,0
+148,Sporting Kansas City,1.043994,0.987311,Columbus Crew,56.60493215162481,Columbus Crew,Sporting Kansas City,3
+149,Real Valladolid,0.9057639999999999,1.0833190000000001,Barcelona,4.20740284673797,Barcelona,Barcelona,0
+150,Real Madrid,1.8653939999999998,1.178051,Levante,70.48425047693291,Real Madrid,Real Madrid,3
+151,Montreal Impact,1.32446,1.277195,Houston Dynamo,27.580297535365528,Houston Dynamo,Houston Dynamo,0
+152,Columbus Crew,1.033891,1.3406799999999999,FC Dallas,18.719876483376556,FC Dallas,Columbus Crew,3
+153,Elche,0.9597190000000001,0.7566109999999999,Celta de Vigo,63.40543878169414,Elche,Elche,3
+154,Atlético de Madrid,2.1073619999999997,0.7813260000000001,Real Madrid,40.26238421394023,Real Madrid,Atlético de Madrid,3
+155,D.C. United,1.05066,1.162039,Toronto FC,44.59515925938375,Toronto FC,Toronto FC,0
+156,Rayo Vallecano,1.006185,1.918192,Valencia,28.38983006081091,Valencia,Valencia,0
+157,Real Sociedad,1.054189,1.107723,Barcelona,6.187096705213512,Barcelona,Barcelona,0
+158,FC Dallas,1.08556,1.354005,New York Red Bulls,36.06879467474302,New York Red Bulls,New York Red Bulls,0
+159,Chicago Fire,1.345069,1.453942,Columbus Crew,40.46919185112813,Columbus Crew,Columbus Crew,0
+160,Vancouver Whitecaps,0.953256,0.9136479999999999,Montreal Impact,60.96983384944622,Vancouver Whitecaps,Vancouver Whitecaps,3
+161,Barcelona,2.701157,1.121947,Rayo Vallecano,91.31047571310414,Barcelona,Barcelona,3
+162,Colorado Rapids,1.2817399999999999,1.064757,Portland Timbers,45.83766194828359,Portland Timbers,Portland Timbers,0
+163,Celta de Vigo,1.444179,1.160612,Athletic Club,35.399641208619464,Athletic Club,Athletic Club,0
+164,Osasuna,1.187262,1.4580389999999999,Getafe,36.600907816920895,Getafe,Getafe,0
+165,FC Dallas,0.9267280000000001,1.418457,Colorado Rapids,20.444418848888002,Colorado Rapids,Colorado Rapids,0
+166,New England Revolution,1.0766229999999999,0.735422,Chicago Fire,55.19570782556428,Chicago Fire,Chicago Fire,0
+167,Toronto FC,0.629171,1.425562,New York Red Bulls,16.62428852022314,New York Red Bulls,New York Red Bulls,0
+168,D.C. United,1.3055219999999998,1.658932,Chivas USA,42.825804018728256,Chivas USA,Chivas USA,0
+169,Montreal Impact,1.277996,1.276458,New England Revolution,26.318321658781073,New England Revolution,Montreal Impact,3
+170,New York Red Bulls,1.501132,1.502731,Houston Dynamo,37.846949037759195,Houston Dynamo,New York Red Bulls,3
+171,Columbus Crew,1.126871,1.0470270000000002,Sporting Kansas City,22.112071742116136,Sporting Kansas City,Sporting Kansas City,0
+172,Houston Dynamo,1.2299120000000001,1.6095959999999998,Columbus Crew,55.99668617472656,Columbus Crew,Columbus Crew,0
+173,Barcelona,2.026596,0.6885789999999999,Valencia,87.47587678986862,Barcelona,Barcelona,3
+174,Athletic Club,1.137355,0.825606,Real Madrid,24.059728644615248,Real Madrid,Real Madrid,0
+175,San Jose Earthquakes,1.304827,0.978519,LA Galaxy,21.737769312282648,LA Galaxy,LA Galaxy,0
+176,Colorado Rapids,1.2697049999999999,0.864635,Sporting Kansas City,54.25252060155624,Sporting Kansas City,Sporting Kansas City,0
+177,Seattle Sounders FC,1.290461,0.892071,Columbus Crew,71.88526515285548,Seattle Sounders FC,Seattle Sounders FC,3
+178,Levante,0.959624,1.47385,Rayo Vallecano,36.30488862060988,Rayo Vallecano,Levante,3
+179,Columbus Crew,1.0209709999999999,0.9047639999999999,Real Salt Lake,17.921899983260097,Real Salt Lake,Real Salt Lake,0
+180,LA Galaxy,1.938035,1.054569,Vancouver Whitecaps,52.424656864362305,Vancouver Whitecaps,LA Galaxy,3
+181,Houston Dynamo,1.206264,1.0906719999999999,Montreal Impact,57.44519860055176,Montreal Impact,Montreal Impact,0
+182,Sporting Kansas City,1.667214,0.8452440000000001,Chicago Fire,62.9861318225819,Sporting Kansas City,Chicago Fire,0
+183,FC Dallas,0.773382,1.565728,Portland Timbers,26.546620131758868,Portland Timbers,Portland Timbers,0
+184,Vancouver Whitecaps,1.0498239999999999,1.520528,Colorado Rapids,22.791104810217753,Colorado Rapids,Colorado Rapids,0
+185,Athletic Club,1.444704,1.120036,Real Valladolid,54.07944129660483,Real Valladolid,Athletic Club,3
+186,Getafe,0.81353,1.424678,Real Sociedad,29.774373877885026,Real Sociedad,Real Sociedad,0
+187,Houston Dynamo,1.085488,1.067286,Real Salt Lake,35.1282493534316,Real Salt Lake,Real Salt Lake,0
+188,New England Revolution,1.173137,0.49723500000000004,Sporting Kansas City,27.73701795022761,Sporting Kansas City,Sporting Kansas City,0
+189,New York Red Bulls,1.4047370000000001,1.123788,Columbus Crew,61.17057829510968,New York Red Bulls,Columbus Crew,0
+190,Toronto FC,1.19416,1.108084,New England Revolution,17.45892911863071,New England Revolution,Toronto FC,3
+191,Chivas USA,0.694491,1.631426,Seattle Sounders FC,10.742324552796667,Seattle Sounders FC,Seattle Sounders FC,0
+192,Real Salt Lake,1.024534,1.327988,New York Red Bulls,56.22958587176886,New York Red Bulls,New York Red Bulls,0
+193,Philadelphia Union,1.7592700000000001,0.896854,Vancouver Whitecaps,31.692809348764566,Vancouver Whitecaps,Philadelphia Union,3
+194,Sporting Kansas City,1.386276,0.8714129999999999,Montreal Impact,53.60254268463063,Montreal Impact,Montreal Impact,0
+195,Sporting Kansas City,1.234733,0.869361,Real Salt Lake,24.610529309919567,Real Salt Lake,Sporting Kansas City,3
+196,D.C. United,0.523753,0.976633,Chicago Fire,21.010321647761412,Chicago Fire,Chicago Fire,0
+197,New England Revolution,1.2924069999999999,0.696767,Columbus Crew,54.050924674950416,Columbus Crew,New England Revolution,3
+198,Toronto FC,1.0588549999999999,1.220895,Chivas USA,37.20868839169307,Chivas USA,Chivas USA,0
+199,LA Galaxy,1.749596,0.9353370000000001,Portland Timbers,52.65021198338275,Portland Timbers,Portland Timbers,0
+200,Toronto FC,1.043282,0.9893540000000001,Sporting Kansas City,13.855187311672386,Sporting Kansas City,Sporting Kansas City,0
+201,Montreal Impact,1.723221,1.2469940000000002,New York Red Bulls,27.33125172785859,New York Red Bulls,New York Red Bulls,0
+202,New York Red Bulls,0.8851700000000001,1.215311,Colorado Rapids,21.277506886157934,Colorado Rapids,Colorado Rapids,0
+203,San Jose Earthquakes,1.241811,1.7700369999999999,Chicago Fire,38.27024574036889,Chicago Fire,Chicago Fire,0
+204,Houston Dynamo,0.778528,1.402621,New York Red Bulls,38.16107579462814,New York Red Bulls,New York Red Bulls,0
+205,LA Galaxy,1.092532,0.7301949999999999,San Jose Earthquakes,63.95167893899065,LA Galaxy,San Jose Earthquakes,0
+206,Vancouver Whitecaps,1.376443,0.9860690000000001,D.C. United,76.72912029357101,Vancouver Whitecaps,Vancouver Whitecaps,3
+207,Seattle Sounders FC,1.236007,1.411565,Real Salt Lake,24.966095941346456,Real Salt Lake,Real Salt Lake,0
+208,Chivas USA,0.972928,1.764906,Vancouver Whitecaps,9.435586279308716,Vancouver Whitecaps,Vancouver Whitecaps,0
+209,New England Revolution,1.269099,0.643533,Vancouver Whitecaps,26.64682302179778,Vancouver Whitecaps,Vancouver Whitecaps,0
+210,Toronto FC,0.742454,1.110881,D.C. United,42.70800338642732,D.C. United,Toronto FC,3
+211,FC Dallas,1.382355,1.843548,Portland Timbers,21.9702750161472,Portland Timbers,Portland Timbers,0
+212,LA Galaxy,1.007477,1.037939,Real Salt Lake,35.874596872913976,Real Salt Lake,Real Salt Lake,0
+213,LA Galaxy,1.226577,1.197181,New England Revolution,60.598393494895184,LA Galaxy,New England Revolution,0
+214,Seattle Sounders FC,1.3716959999999998,1.6779669999999998,Chivas USA,76.77736737772459,Seattle Sounders FC,Seattle Sounders FC,3
+215,Espanyol,1.142041,0.9568629999999999,Celta de Vigo,40.14915422443797,Celta de Vigo,Celta de Vigo,0
+216,Real Valladolid,0.76553,2.002612,Mallorca,28.01785125072801,Mallorca,Mallorca,0
+217,Málaga,1.194588,1.442654,Barcelona,4.600456769104361,Barcelona,Barcelona,0
+218,Osasuna,1.128301,1.319553,Real Madrid,16.002131607678148,Real Madrid,Real Madrid,0
+219,Rayo Vallecano,0.937342,1.990879,Getafe,36.263304101432745,Getafe,Rayo Vallecano,3
+220,Celta de Vigo,0.9972049999999999,1.457546,Real Valladolid,47.419555763274374,Real Valladolid,Celta de Vigo,3
+221,Real Zaragoza,1.0927719999999999,1.341755,Real Betis,35.33897235175754,Real Betis,Real Betis,0
+222,Levante,0.881175,1.584496,Athletic Club,30.092688037268545,Athletic Club,Levante,3
+223,Real Valladolid,1.048006,1.987479,Barcelona,2.003243417673858,Barcelona,Barcelona,0
+224,Norwich City,1.3277079999999999,1.325118,Manchester City,9.957846487394963,Manchester City,Norwich City,3
+225,Reading,1.154791,2.331731,West Ham United,45.041505538579216,West Ham United,West Ham United,0
+226,Espanyol,1.414987,0.903624,Deportivo de La Coruña,37.21097740755038,Deportivo de La Coruña,Deportivo de La Coruña,0
+227,Rayo Vallecano,0.9918620000000001,1.813345,Levante,31.161940280540563,Levante,Rayo Vallecano,3
+228,Chicago Fire,1.8472849999999998,1.066611,Philadelphia Union,35.933302005162865,Philadelphia Union,Philadelphia Union,0
+229,Osasuna,0.8268790000000001,1.3783290000000001,Granada CF,31.290604019278632,Granada CF,Granada CF,0
+230,Valencia,2.14642,1.0795379999999999,Getafe,54.23952631294142,Getafe,Valencia,3
+231,LA Galaxy,1.1615870000000001,1.2252299999999998,Philadelphia Union,55.77917354155916,Philadelphia Union,LA Galaxy,3
+232,Manchester City,1.445748,1.176396,Reading,66.3756335211143,Manchester City,Manchester City,3
+233,Wigan Athletic,1.612476,1.188077,Arsenal,18.586847989380917,Arsenal,Arsenal,0
+234,Chivas USA,0.874065,1.625269,Portland Timbers,10.084234771916273,Portland Timbers,Portland Timbers,0
+235,Barcelona,1.9950430000000001,0.843143,Atlético de Madrid,68.65195823432897,Barcelona,Barcelona,3
+236,Swansea City,1.089359,1.460841,Manchester United,10.482898774529886,Manchester United,Manchester United,0
+237,Newcastle United,1.01667,1.952147,Queens Park Rangers,43.168496177827684,Queens Park Rangers,Newcastle United,3
+238,LA Galaxy,1.3861139999999998,0.982197,Vancouver Whitecaps,42.96756598582015,Vancouver Whitecaps,Vancouver Whitecaps,0
+239,Deportivo de La Coruña,1.6422880000000002,1.206599,Real Valladolid,54.68665070173827,Real Valladolid,Real Valladolid,0
+240,Toronto FC,1.0733540000000001,1.562653,San Jose Earthquakes,12.681874450583585,San Jose Earthquakes,San Jose Earthquakes,0
+241,Vancouver Whitecaps,1.1650340000000001,1.503664,Real Salt Lake,31.544281639058525,Real Salt Lake,Real Salt Lake,0
+242,Toronto FC,1.0314,1.6606919999999998,Colorado Rapids,6.456995977546851,Colorado Rapids,Colorado Rapids,0
+243,New York Red Bulls,1.430352,1.189431,Columbus Crew,60.936249921678886,New York Red Bulls,New York Red Bulls,3
+244,Real Valladolid,0.931307,2.413724,Real Madrid,7.464765298818829,Real Madrid,Real Madrid,0
+245,Southampton,1.257332,1.252953,Tottenham Hotspur,16.89392244371102,Tottenham Hotspur,Tottenham Hotspur,0
+246,Wigan Athletic,1.280988,0.684808,West Bromwich Albion,44.604594562521854,West Bromwich Albion,Wigan Athletic,3
+247,Granada CF,1.3730870000000002,1.477595,Espanyol,36.87926007281382,Espanyol,Granada CF,3
+248,Portland Timbers,0.8236559999999999,1.0914,Sporting Kansas City,37.53752360587138,Sporting Kansas City,Portland Timbers,3
+249,Real Madrid,3.1301639999999997,1.401882,Atlético de Madrid,44.51509948928883,Atlético de Madrid,Real Madrid,3
+250,Liverpool,1.73,1.133859,Newcastle United,45.69865627138192,Newcastle United,Liverpool,3
+251,Celta de Vigo,1.0670709999999999,1.9119009999999999,Levante,33.02854873589129,Levante,Celta de Vigo,3
+252,Manchester City,1.614176,0.620492,Tottenham Hotspur,54.40744693504567,Tottenham Hotspur,Tottenham Hotspur,0
+253,Columbus Crew,1.620826,1.060902,Chicago Fire,41.6010495177901,Chicago Fire,Chicago Fire,0
+254,Málaga,1.021448,1.095209,Valencia,37.159371906586195,Valencia,Valencia,0
+255,Arsenal,1.617702,0.632838,Fulham,67.18303538893674,Arsenal,Arsenal,3
+256,Reading,0.814396,1.8235439999999998,Norwich City,56.11678576473079,Norwich City,Norwich City,0
+257,Wigan Athletic,1.429904,1.0283719999999998,Manchester City,13.888768442674426,Manchester City,Manchester City,0
+258,Celta de Vigo,1.115059,1.9362259999999998,Mallorca,42.4693468970732,Mallorca,Mallorca,0
+259,Osasuna,1.407459,1.22868,Málaga,28.617795974540623,Málaga,Málaga,0
+260,Getafe,1.431999,0.9570280000000001,Real Valladolid,45.605660623054334,Real Valladolid,Real Valladolid,0
+261,Athletic Club,1.138073,1.8645509999999998,Sevilla,30.209761840054856,Sevilla,Sevilla,0
+262,Sunderland,1.167257,1.419706,Chelsea,18.829580123331834,Chelsea,Chelsea,0
+263,Fulham,0.6375460000000001,1.315712,Newcastle United,34.26831850678573,Newcastle United,Newcastle United,0
+264,Levante,1.069009,1.1440270000000001,Real Madrid,13.168673510935703,Real Madrid,Real Madrid,0
+265,Aston Villa,1.064686,1.427876,Stoke City,42.81798444309345,Stoke City,Aston Villa,3
+266,Granada CF,1.108983,0.9649909999999999,Athletic Club,41.30844407703332,Athletic Club,Athletic Club,0
+267,Osasuna,1.278845,1.345569,Real Valladolid,36.69407316205329,Real Valladolid,Osasuna,3
+268,Sevilla,2.0104740000000003,1.759914,Levante,42.698032748332146,Levante,Levante,0
+269,Tottenham Hotspur,1.732058,0.738267,Swansea City,64.41787514024759,Tottenham Hotspur,Tottenham Hotspur,3
+270,Manchester United,1.9242169999999998,0.343881,Sunderland,86.06731763622291,Manchester United,Manchester United,3
+271,West Ham United,1.0535940000000001,1.739134,Chelsea,19.666043468784167,Chelsea,Chelsea,0
+272,Espanyol,0.902615,0.724636,Málaga,33.29024041527667,Málaga,Espanyol,3
+273,Mallorca,1.671055,1.6688470000000002,Real Madrid,10.279755949801691,Real Madrid,Real Madrid,0
+274,Reading,0.9122020000000001,1.8566490000000002,Manchester United,9.611333231061145,Manchester United,Manchester United,0
+275,Queens Park Rangers,0.759108,1.622625,Aston Villa,38.7628329004067,Aston Villa,Aston Villa,0
+276,Liverpool,1.40714,1.2696379999999998,Southampton,51.23608816179859,Southampton,Southampton,0
+277,Real Valladolid,0.689107,1.447484,Real Sociedad,20.895805618550508,Real Sociedad,Real Sociedad,0
+278,Real Sociedad,2.03714,0.9755510000000001,Atlético de Madrid,24.29027413404551,Atlético de Madrid,Real Sociedad,3
+279,Stoke City,0.800905,0.9047790000000001,Newcastle United,21.455523657581825,Newcastle United,Newcastle United,0
+280,Deportivo de La Coruña,0.976022,2.15733,Barcelona,3.1523287047016177,Barcelona,Barcelona,0
+281,Manchester City,1.506176,0.662907,Aston Villa,81.7235386957338,Manchester City,Manchester City,3
+282,Arsenal,1.89861,0.964397,Tottenham Hotspur,37.87237810454665,Tottenham Hotspur,Tottenham Hotspur,0
+283,Mallorca,1.137489,1.513693,Granada CF,39.010002491428395,Granada CF,Mallorca,3
+284,Athletic Club,1.9231490000000002,1.613149,Osasuna,52.810279841501526,Osasuna,Athletic Club,3
+285,Liverpool,1.579412,1.011185,Wigan Athletic,59.582944870708175,Liverpool,Liverpool,3
+286,West Bromwich Albion,1.1420270000000001,1.629911,Chelsea,18.1248939141458,Chelsea,Chelsea,0
+287,Queens Park Rangers,0.402557,2.17979,Southampton,24.260569951271414,Southampton,Queens Park Rangers,3
+288,Barcelona,1.9547419999999998,1.134614,Real Madrid,66.74176952707008,Barcelona,Real Madrid,0
+289,Osasuna,0.8281,1.186819,Levante,28.487161438395276,Levante,Osasuna,3
+290,Espanyol,1.341588,0.758061,Atlético de Madrid,14.830452981586244,Atlético de Madrid,Atlético de Madrid,0
+291,Granada CF,0.8360690000000001,1.52708,Celta de Vigo,46.5682228023117,Celta de Vigo,Celta de Vigo,0
+292,Real Valladolid,1.060402,1.4408299999999998,Rayo Vallecano,32.44862434550104,Rayo Vallecano,Real Valladolid,3
+293,Sevilla,1.7773849999999998,1.2974729999999999,Barcelona,6.035341148189865,Barcelona,Barcelona,0
+294,Wigan Athletic,1.154694,1.668225,Reading,27.343275214288198,Reading,Wigan Athletic,3
+295,Sunderland,1.478081,1.7074,West Bromwich Albion,39.47134003793357,West Bromwich Albion,West Bromwich Albion,0
+296,Getafe,1.08192,1.5635809999999999,Mallorca,36.89191999702043,Mallorca,Getafe,3
+297,Rayo Vallecano,1.200459,1.5741370000000001,Real Madrid,13.249014741302561,Real Madrid,Real Madrid,0
+298,Mallorca,0.8523850000000001,1.662614,Valencia,16.32413615789125,Valencia,Valencia,0
+299,Real Zaragoza,0.581646,1.2790000000000001,Osasuna,44.77269308578969,Osasuna,Osasuna,0
+300,Deportivo de La Coruña,1.003658,1.418836,Sevilla,25.633953297673774,Sevilla,Sevilla,0
+301,Espanyol,1.0211270000000001,1.084175,Athletic Club,32.27972360541438,Athletic Club,Espanyol,3
+302,West Ham United,1.6723860000000002,1.428871,Aston Villa,53.47015654880636,Aston Villa,Aston Villa,0
+303,Sevilla,1.7146099999999997,0.839686,Real Madrid,23.702725249236707,Real Madrid,Real Madrid,0
+304,Málaga,1.2542280000000001,1.1825219999999999,Levante,39.92371354844691,Levante,Málaga,3
+305,Manchester City,1.7254,0.602416,Southampton,78.97897512721688,Manchester City,Southampton,0
+306,Valencia,2.077681,1.154792,Celta de Vigo,64.84279704100298,Valencia,Valencia,3
+307,Arsenal,1.342156,0.9444389999999999,Sunderland,68.19773541460961,Arsenal,Arsenal,3
+308,Queens Park Rangers,0.398728,1.865543,Swansea City,20.592053795718343,Swansea City,Swansea City,0
+309,Mallorca,0.741172,1.2497209999999999,Real Sociedad,21.982171261494546,Real Sociedad,Real Sociedad,0
+310,Tottenham Hotspur,2.174583,0.556517,West Bromwich Albion,76.77701925702735,Tottenham Hotspur,Tottenham Hotspur,3
+311,Levante,0.9216540000000001,0.8366379999999999,Espanyol,48.627389615938064,Espanyol,Espanyol,0
+312,Manchester United,1.9634029999999998,0.9570110000000001,Fulham,81.41275246822357,Manchester United,Manchester United,3
+313,Stoke City,1.164682,1.425574,Arsenal,17.801378028518503,Arsenal,Arsenal,0
+314,Sunderland,1.158118,1.9176259999999998,Reading,22.474117158438162,Reading,Reading,0
+315,Swansea City,1.051675,0.7403930000000001,West Ham United,42.308516842844256,West Ham United,West Ham United,0
+316,West Bromwich Albion,1.699386,1.2806899999999999,Everton,21.802272454223615,Everton,Everton,0
+317,Málaga,1.610961,1.342039,Mallorca,61.81894509730421,Málaga,Málaga,3
+318,Osasuna,0.7698119999999999,1.20011,Barcelona,2.6225409735066982,Barcelona,Barcelona,0
+319,Valencia,1.520019,0.9127870000000001,Deportivo de La Coruña,50.28377702569801,Deportivo de La Coruña,Valencia,3
+320,Real Madrid,1.7866970000000002,1.232224,Valencia,52.4250128801381,Valencia,Real Madrid,3
+321,Real Zaragoza,0.599598,0.9703440000000001,Real Valladolid,34.48454413250844,Real Valladolid,Real Valladolid,0
+322,Arsenal,1.7415169999999998,1.015885,Chelsea,30.982352515557693,Chelsea,Chelsea,0
+323,Manchester City,2.2018419999999996,0.8050649999999999,Arsenal,59.644706605434706,Manchester City,Manchester City,3
+324,Liverpool,1.8909669999999998,1.037691,Manchester United,15.288230775549222,Manchester United,Manchester United,0
+325,Sevilla,1.131532,1.111804,Valencia,37.55383290526509,Valencia,Valencia,0
+326,Chelsea,1.688235,1.1739899999999999,Stoke City,68.21835904764505,Chelsea,Chelsea,3
+327,Rayo Vallecano,0.764617,0.808848,Athletic Club,39.49183174970442,Athletic Club,Rayo Vallecano,3
+328,Real Sociedad,1.852106,1.121373,Real Madrid,17.14428120114661,Real Madrid,Real Madrid,0
+329,Málaga,1.606383,1.3362370000000001,Deportivo de La Coruña,47.77891825522895,Deportivo de La Coruña,Deportivo de La Coruña,0
+330,Valencia,1.280335,1.440107,Granada CF,46.304277322409185,Granada CF,Valencia,3
+331,Sunderland,1.176313,1.6934040000000001,Liverpool,17.41830200491244,Liverpool,Liverpool,0
+332,Norwich City,1.289574,1.47676,West Ham United,36.786806043183304,West Ham United,West Ham United,0
+333,Manchester United,1.79905,1.895364,Wigan Athletic,80.9115074346369,Manchester United,Manchester United,3
+334,Newcastle United,1.351739,1.586021,Arsenal,20.32919971465929,Arsenal,Arsenal,0
+335,Manchester City,1.8792349999999998,0.8258690000000001,Norwich City,77.18761200108133,Manchester City,Manchester City,3
+336,Tottenham Hotspur,1.461913,0.575728,Sunderland,69.37830955962531,Tottenham Hotspur,Tottenham Hotspur,3
+337,Tottenham Hotspur,1.445691,0.830575,Aston Villa,71.35821344389926,Tottenham Hotspur,Tottenham Hotspur,3
+338,Wigan Athletic,1.108451,1.49174,Everton,21.5190534119771,Everton,Everton,0
+339,Manchester City,1.760082,0.695995,Sunderland,78.32768303925761,Manchester City,Sunderland,0
+340,Aston Villa,0.863399,1.3890069999999999,Chelsea,14.337040827894537,Chelsea,Chelsea,0
+341,Real Madrid,2.514564,0.8989860000000001,Málaga,62.21504851942999,Real Madrid,Málaga,0
+342,Reading,1.315744,2.135291,Manchester City,12.33286342951338,Manchester City,Manchester City,0
+343,Arsenal,1.555878,1.082339,Wigan Athletic,68.12147125413036,Arsenal,Arsenal,3
+344,Levante,1.263896,1.385843,Rayo Vallecano,36.76069059589772,Rayo Vallecano,Rayo Vallecano,0
+345,Real Betis,1.284348,2.226666,Celta de Vigo,30.99013824928284,Celta de Vigo,Real Betis,3
+346,Arsenal,1.192721,1.116016,Reading,53.00768816853051,Reading,Arsenal,3
+347,Real Zaragoza,1.076279,1.7712720000000002,Rayo Vallecano,33.914553385863925,Rayo Vallecano,Real Zaragoza,3
+348,Deportivo de La Coruña,1.282785,1.464477,Atlético de Madrid,16.7573273014067,Atlético de Madrid,Atlético de Madrid,0
+349,Liverpool,1.7078360000000001,0.643319,West Ham United,59.97488393181036,Liverpool,Liverpool,3
+350,Manchester United,1.734604,1.236277,Manchester City,44.64201334498,Manchester City,Manchester United,3
+351,Valencia,0.838458,1.428231,Osasuna,43.9881288110839,Osasuna,Valencia,3
+352,West Bromwich Albion,1.350452,1.7084400000000002,Arsenal,20.93164717914613,Arsenal,Arsenal,0
+353,Reading,1.3247950000000002,1.7002680000000001,Southampton,52.624990068940356,Southampton,Southampton,0
+354,Athletic Club,1.636485,2.359266,Barcelona,3.291033148705341,Barcelona,Barcelona,0
+355,Manchester United,1.8285220000000002,1.1925219999999999,Reading,77.6826396095208,Manchester United,Manchester United,3
+356,Real Sociedad,1.520117,0.928033,Valencia,42.5725371038819,Valencia,Real Sociedad,3
+357,Tottenham Hotspur,1.2995700000000001,1.4755049999999998,Fulham,59.06326312574441,Fulham,Tottenham Hotspur,3
+358,Stoke City,1.388372,0.916117,West Bromwich Albion,38.08671402567689,West Bromwich Albion,Stoke City,3
+359,Liverpool,1.641623,0.689068,Tottenham Hotspur,44.844055961581745,Tottenham Hotspur,Tottenham Hotspur,0
+360,Reading,1.245695,1.851432,Aston Villa,59.14687553384779,Reading,Aston Villa,0
+361,West Ham United,1.277047,1.3596840000000001,Tottenham Hotspur,24.7853460648574,Tottenham Hotspur,Tottenham Hotspur,0
+362,Newcastle United,1.385099,1.471032,Southampton,42.39935336861327,Southampton,Southampton,0
+363,Valencia,1.131211,0.885185,Málaga,40.14558013549015,Málaga,Málaga,0
+364,Queens Park Rangers,0.942423,2.015387,Manchester United,4.157359773566772,Manchester United,Manchester United,0
+365,Fulham,1.624807,1.915634,Stoke City,44.021762207634,Stoke City,Stoke City,0
+366,Reading,1.177283,1.998552,Wigan Athletic,56.48733023152499,Wigan Athletic,Wigan Athletic,0
+367,Rayo Vallecano,1.378836,1.599393,Real Sociedad,30.415328715012237,Real Sociedad,Real Sociedad,0
+368,Real Valladolid,1.328208,1.086945,Getafe,38.65380983805214,Getafe,Getafe,0
+369,Athletic Club,1.533965,1.9589150000000002,Real Madrid,9.054672133044226,Real Madrid,Real Madrid,0
+370,Real Zaragoza,1.589652,1.869317,Barcelona,3.580533395909389,Barcelona,Barcelona,0
+371,Espanyol,1.3445200000000002,1.4889350000000001,Valencia,25.62920318595839,Valencia,Valencia,0
+372,Swansea City,1.262717,1.425188,Newcastle United,39.503602979258545,Newcastle United,Swansea City,3
+373,Chelsea,1.73163,1.305954,West Bromwich Albion,57.93358352400929,West Bromwich Albion,West Bromwich Albion,0
+374,Tottenham Hotspur,1.2881200000000002,1.456942,Arsenal,34.794391122610165,Arsenal,Arsenal,0
+375,Barcelona,2.085233,1.057831,Mallorca,93.47351562049445,Barcelona,Barcelona,3
+376,Sevilla,1.67347,0.9278200000000001,Athletic Club,53.59536769409266,Athletic Club,Athletic Club,0
+377,Tottenham Hotspur,1.532259,1.396716,Manchester City,19.076338286352296,Manchester City,Manchester City,0
+378,Real Sociedad,1.2052459999999998,1.1378840000000001,Málaga,30.572810810372935,Málaga,Real Sociedad,3
+379,Sunderland,0.309643,1.466664,Everton,15.170184076361615,Everton,Everton,0
+380,Queens Park Rangers,1.0036459999999998,2.144545,Stoke City,30.642375172370773,Stoke City,Stoke City,0
+381,West Bromwich Albion,1.3793,1.090771,Wigan Athletic,45.15425554786348,Wigan Athletic,West Bromwich Albion,3
+382,Espanyol,1.307029,1.4736209999999998,Real Sociedad,27.250317895513398,Real Sociedad,Espanyol,3
+383,Stoke City,1.300142,1.2690649999999999,Norwich City,34.91749544354815,Norwich City,Norwich City,0
+384,Wigan Athletic,1.26931,1.518504,Tottenham Hotspur,15.547216904291899,Tottenham Hotspur,Wigan Athletic,3
+385,Manchester United,2.023885,0.949656,Chelsea,64.32600059273766,Manchester United,Manchester United,3
+386,Sevilla,1.509157,1.076065,Real Zaragoza,53.385407540336246,Real Zaragoza,Real Zaragoza,0
+387,Valencia,1.5073290000000001,1.141468,Real Betis,58.511142679022896,Real Betis,Real Betis,0
+388,Levante,0.7578060000000001,1.1289040000000001,Getafe,41.639899747696425,Getafe,Levante,3
+389,Arsenal,1.393465,0.8348409999999999,Norwich City,60.26713527327946,Arsenal,Norwich City,0
+390,Celta de Vigo,1.395925,1.364206,Real Madrid,12.800296269320102,Real Madrid,Real Madrid,0
+391,Aston Villa,1.099426,1.222349,Fulham,34.89867498222646,Fulham,Fulham,0
+392,Stoke City,1.18897,0.8777370000000001,Manchester United,5.768267938024143,Manchester United,Manchester United,0
+393,Manchester City,1.9627330000000003,0.759919,West Bromwich Albion,79.84206156064633,Manchester City,Manchester City,3
+394,Osasuna,1.2157950000000002,1.136276,Athletic Club,35.86746172633735,Athletic Club,Athletic Club,0
+395,Aston Villa,1.0133889999999999,1.097625,Tottenham Hotspur,17.65235728960325,Tottenham Hotspur,Tottenham Hotspur,0
+396,Getafe,0.940156,1.524946,Real Zaragoza,36.88854963753125,Real Zaragoza,Getafe,3
+397,Liverpool,1.142098,0.806184,Norwich City,50.634870699446054,Norwich City,Liverpool,3
+398,Wigan Athletic,0.980283,1.542301,Sunderland,38.85636543404213,Sunderland,Sunderland,0
+399,Queens Park Rangers,0.972584,2.124241,Tottenham Hotspur,10.036292536324556,Tottenham Hotspur,Tottenham Hotspur,0
+400,Norwich City,1.67724,1.565848,Newcastle United,40.93720926435204,Newcastle United,Newcastle United,0
+401,Wigan Athletic,1.235059,1.210755,Manchester United,7.146999074563578,Manchester United,Manchester United,0
+402,Queens Park Rangers,0.7746850000000001,2.51471,Manchester City,3.6624511110969435,Manchester City,Manchester City,0
+403,Manchester United,1.787088,0.9811469999999999,Everton,71.49449535926782,Manchester United,Everton,0
+404,Tottenham Hotspur,1.556605,0.72742,Newcastle United,68.49143612341712,Tottenham Hotspur,Newcastle United,0
+405,Norwich City,1.181886,2.156678,Fulham,23.16578868444172,Fulham,Fulham,0
+406,Swansea City,1.27938,1.501427,Queens Park Rangers,47.830494406408135,Queens Park Rangers,Swansea City,3
+407,Liverpool,1.391061,1.1170579999999999,West Bromwich Albion,50.35224206901751,West Bromwich Albion,West Bromwich Albion,0
+408,Queens Park Rangers,0.752042,1.6180700000000001,Manchester City,8.840229158452678,Manchester City,Manchester City,0
+409,Aston Villa,0.701229,1.203209,Norwich City,40.77898236338417,Norwich City,Norwich City,0
+410,Arsenal,2.175966,0.8457319999999999,West Bromwich Albion,55.84997469573031,West Bromwich Albion,Arsenal,3
+411,Wolverhampton Wanderers,0.9521719999999999,1.493816,Wigan Athletic,34.71788664772561,Wigan Athletic,Wigan Athletic,0
+412,Stoke City,0.59009,1.40985,Queens Park Rangers,35.44037564802757,Queens Park Rangers,Queens Park Rangers,0
+413,Fulham,1.493844,1.01568,Liverpool,28.779320184982293,Liverpool,Fulham,3
+414,Blackburn Rovers,1.245476,1.37667,Tottenham Hotspur,8.842156072363546,Tottenham Hotspur,Tottenham Hotspur,0
+415,West Bromwich Albion,0.775767,1.641905,Liverpool,22.673590581313498,Liverpool,West Bromwich Albion,3
+416,Wigan Athletic,1.2732350000000001,1.023816,Fulham,34.75664090088934,Fulham,Fulham,0
+417,Stoke City,0.653101,1.389337,Newcastle United,30.013306962508985,Newcastle United,Newcastle United,0
+418,Wigan Athletic,1.1618540000000002,0.964557,Arsenal,19.738793436369885,Arsenal,Wigan Athletic,3
+419,Aston Villa,1.063029,1.6394090000000001,Manchester United,2.7424522407597496,Manchester United,Manchester United,0
+420,West Bromwich Albion,0.842726,1.837869,Manchester City,9.266094607816306,Manchester City,Manchester City,0
+421,Manchester United,2.180914,0.569311,Wigan Athletic,89.99633044382101,Manchester United,Wigan Athletic,0
+422,Liverpool,1.762609,0.9533940000000001,Blackburn Rovers,65.02642580087623,Liverpool,Liverpool,3
+423,Sunderland,1.036363,0.917184,Everton,24.424734320384147,Everton,Everton,0
+424,Bolton Wanderers,1.129899,2.285269,Newcastle United,22.98458707232632,Newcastle United,Newcastle United,0
+425,Manchester City,1.6585580000000002,0.824984,Arsenal,67.40839855573671,Manchester City,Arsenal,0
+426,Blackburn Rovers,1.097445,1.223025,West Bromwich Albion,26.747671297959634,West Bromwich Albion,West Bromwich Albion,0
+427,Manchester United,2.560722,0.899651,Blackburn Rovers,91.71911654172185,Manchester United,Manchester United,3
+428,Swansea City,1.085019,1.453862,Tottenham Hotspur,15.601699443442527,Tottenham Hotspur,Tottenham Hotspur,0
+429,West Bromwich Albion,1.711454,1.404051,Everton,33.25232099419056,Everton,Everton,0
+430,Stoke City,0.730075,1.313212,Wigan Athletic,33.879504209076735,Wigan Athletic,Wigan Athletic,0
+431,Arsenal,2.4497240000000002,0.7495649999999999,Everton,50.849718521477605,Everton,Arsenal,3
+432,Newcastle United,1.203854,1.6816220000000002,Arsenal,27.04796730005276,Arsenal,Arsenal,0
+433,Manchester City,1.9111630000000002,0.691659,Swansea City,81.4103864564425,Manchester City,Swansea City,0
+434,Tottenham Hotspur,1.391246,1.4821469999999999,Everton,56.08690127875339,Everton,Everton,0
+435,Fulham,1.6320219999999999,0.9044610000000001,Aston Villa,52.379455112368525,Aston Villa,Aston Villa,0
+436,Stoke City,0.681592,0.632961,Chelsea,19.638016860134627,Chelsea,Chelsea,0
+437,Liverpool,1.494132,1.292087,Sunderland,55.608597497898394,Sunderland,Sunderland,0
+438,Wolverhampton Wanderers,1.3796030000000001,2.049481,Fulham,16.99745028954737,Fulham,Fulham,0
+439,Chelsea,1.868243,0.7514390000000001,West Bromwich Albion,52.49515078405017,West Bromwich Albion,West Bromwich Albion,0
+440,Swansea City,0.755175,1.411141,Wigan Athletic,43.00525814623239,Wigan Athletic,Swansea City,3
+441,Arsenal,2.028791,0.717363,Liverpool,41.646728496407405,Liverpool,Arsenal,3
+442,Swansea City,0.9218559999999999,1.333035,Stoke City,36.33400154941384,Stoke City,Stoke City,0
+443,Tottenham Hotspur,1.422179,0.9308120000000001,Arsenal,51.1246949799212,Arsenal,Arsenal,0
+444,Newcastle United,0.725622,1.439901,Tottenham Hotspur,15.075992694696938,Tottenham Hotspur,Tottenham Hotspur,0
+445,Queens Park Rangers,0.711585,1.182626,Blackburn Rovers,47.30004391972726,Blackburn Rovers,Blackburn Rovers,0
+446,Stoke City,0.517658,0.76835,Fulham,27.45825848463399,Fulham,Fulham,0
+447,Arsenal,1.8140490000000002,0.8617360000000001,Sunderland,56.808678414036336,Sunderland,Arsenal,3
+448,Norwich City,1.27185,1.054655,Swansea City,41.75294008234886,Swansea City,Norwich City,3
+449,Fulham,1.480432,2.066164,Manchester City,9.279982476981493,Manchester City,Manchester City,0
+450,Norwich City,1.324726,1.403469,Sunderland,36.12110823138542,Sunderland,Sunderland,0
+451,Wigan Athletic,0.624738,1.520073,Tottenham Hotspur,8.08614317550335,Tottenham Hotspur,Tottenham Hotspur,0
+452,Liverpool,1.296414,0.745371,Wolverhampton Wanderers,77.64257879499036,Liverpool,Liverpool,3
+453,Liverpool,1.645845,0.619783,Bolton Wanderers,74.27535066023646,Liverpool,Bolton Wanderers,0
+454,Newcastle United,0.883439,0.9356209999999999,Fulham,48.44012013625117,Fulham,Fulham,0
+455,Swansea City,0.710374,1.3459780000000001,Sunderland,34.485989215828496,Sunderland,Sunderland,0
+456,Arsenal,1.5920450000000002,1.006522,Swansea City,60.9241068744796,Arsenal,Swansea City,0
+457,Bolton Wanderers,1.3125959999999999,1.002371,Manchester United,3.5767270867732632,Manchester United,Manchester United,0
+458,Everton,0.919306,0.65182,Tottenham Hotspur,25.664792431021972,Tottenham Hotspur,Tottenham Hotspur,0
+459,Manchester United,2.35748,0.896123,Newcastle United,83.70173284878007,Manchester United,Newcastle United,0
+460,Swansea City,0.8462270000000001,1.5098850000000001,Aston Villa,40.52142124516115,Aston Villa,Swansea City,3
+461,Norwich City,1.566669,1.942176,Queens Park Rangers,41.270625497614795,Queens Park Rangers,Norwich City,3
+462,Chelsea,1.600832,1.2831110000000001,Wolverhampton Wanderers,75.5617805712994,Chelsea,Chelsea,3
+463,Manchester City,1.727502,0.952936,Sunderland,76.5411851719374,Manchester City,Sunderland,0
+464,Manchester United,2.032893,0.6741199999999999,Fulham,80.77288259420709,Manchester United,Manchester United,3
+465,Arsenal,2.012509,0.623927,Aston Villa,67.4251499507294,Arsenal,Arsenal,3
+466,Arsenal,2.018149,0.489043,Manchester City,28.252723874233805,Manchester City,Manchester City,0
+467,West Bromwich Albion,1.123805,1.279319,Blackburn Rovers,55.47418192656929,Blackburn Rovers,West Bromwich Albion,3
+468,Everton,1.424856,0.90236,Arsenal,31.395429541839558,Arsenal,Arsenal,0
+469,Aston Villa,0.566276,1.370524,Bolton Wanderers,45.909427194604355,Bolton Wanderers,Aston Villa,3
+470,Queens Park Rangers,1.226275,1.665386,Liverpool,18.789830204515773,Liverpool,Liverpool,0
+471,Newcastle United,1.244199,1.520864,Norwich City,46.367830972637904,Norwich City,Norwich City,0
+472,Fulham,1.7004860000000002,1.523578,Swansea City,37.752713477254886,Swansea City,Swansea City,0
+473,Stoke City,0.921852,1.533791,Everton,18.663335168811425,Everton,Stoke City,3
+474,Norwich City,1.644832,1.8769189999999998,Manchester City,13.495289047033454,Manchester City,Manchester City,0
+475,Chelsea,1.651087,0.851966,Newcastle United,58.07800121406558,Newcastle United,Chelsea,3
+476,Everton,1.206265,1.4048100000000001,Bolton Wanderers,56.96169180368521,Bolton Wanderers,Everton,3
+477,Wolverhampton Wanderers,1.78387,1.7361220000000002,Chelsea,16.73879963342323,Chelsea,Chelsea,0
+478,Queens Park Rangers,1.122087,1.8302,Norwich City,36.637321678225156,Norwich City,Norwich City,0
+479,Tottenham Hotspur,1.779107,1.495778,West Bromwich Albion,51.25113273623578,West Bromwich Albion,Tottenham Hotspur,3
+480,Liverpool,1.9708869999999998,0.874785,Chelsea,37.14398639335263,Chelsea,Liverpool,3
+481,Manchester United,1.07221,1.433583,Swansea City,79.93217108236048,Manchester United,Manchester United,3
+482,Wolverhampton Wanderers,1.901859,1.892255,Everton,21.794465487227363,Everton,Everton,0
+483,Newcastle United,1.348048,1.181193,Manchester City,12.665570050487215,Manchester City,Manchester City,0
+484,Queens Park Rangers,0.833189,1.608471,Stoke City,39.717967319406405,Stoke City,Queens Park Rangers,3
+485,Stoke City,0.922968,0.9585030000000001,Bolton Wanderers,47.460111191159534,Bolton Wanderers,Bolton Wanderers,0
+486,Manchester City,2.024308,0.628151,Queens Park Rangers,81.52166856140936,Manchester City,Manchester City,3
+487,West Bromwich Albion,0.988135,1.1756229999999999,Arsenal,24.050189312200583,Arsenal,Arsenal,0
+488,Chelsea,1.8565669999999999,1.009164,Blackburn Rovers,71.27870366587048,Chelsea,Chelsea,3
+489,Newcastle United,1.48256,0.8870040000000001,Stoke City,50.615852687545605,Stoke City,Newcastle United,3
+490,Queens Park Rangers,0.695376,0.9833719999999999,Tottenham Hotspur,15.417774946337243,Tottenham Hotspur,Tottenham Hotspur,0
+491,Liverpool,1.687399,1.166128,West Bromwich Albion,51.79642033028622,West Bromwich Albion,Liverpool,3
+492,Bolton Wanderers,1.096529,2.033629,Swansea City,30.25865404673341,Swansea City,Swansea City,0
+493,Arsenal,1.787834,1.020374,Chelsea,37.154440799084455,Chelsea,Arsenal,3
+494,Manchester United,1.408085,1.6831150000000001,Everton,67.31452501968757,Manchester United,Manchester United,3
+495,Chelsea,1.890166,1.018359,Queens Park Rangers,62.20169136241401,Chelsea,Queens Park Rangers,0
+496,Stoke City,0.739379,0.87221,Arsenal,18.900309946771458,Arsenal,Arsenal,0
+497,Sunderland,1.1752340000000001,1.128375,Bolton Wanderers,48.51844088745861,Bolton Wanderers,Sunderland,3
+498,Sunderland,1.189188,1.053445,Arsenal,22.610985007295803,Arsenal,Arsenal,0
+499,Wolverhampton Wanderers,1.023815,1.470472,West Bromwich Albion,28.84676124848146,West Bromwich Albion,West Bromwich Albion,0
+500,Aston Villa,0.766512,1.282797,Manchester City,7.296240270566916,Manchester City,Manchester City,0
+501,Wigan Athletic,0.8752700000000001,1.525173,Aston Villa,36.45871931902839,Aston Villa,Aston Villa,0
+502,Newcastle United,1.172395,0.704182,Wolverhampton Wanderers,55.68348193418665,Wolverhampton Wanderers,Newcastle United,3
