@@ -24,7 +24,7 @@ summary(tree.carseats)
 # 3. Use the plot() function to display the tree structure, and the text() function to display the node labels.
 
 plot(tree.carseats)
-text(tree.carseats, pretty = 1)
+text(tree.carseats, pretty = 0)
 
 # 4. estimate the test error by splitting the observations into a training set and a test set as
 
