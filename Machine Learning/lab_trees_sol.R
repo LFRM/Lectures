@@ -8,7 +8,6 @@ library(MASS)
 library(gbm)
 
 library(randomForest)
-
 attach(Carseats)
 
 # 1. Build a binary variable that is "Yes" if Sales >8, and "No" otherwise; and merge this new variable with the Carseat data in a new dataframe
