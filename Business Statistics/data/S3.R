@@ -26,3 +26,8 @@ table(softdrinks)/sum(table(softdrinks))
 haudit=hist(audit)
 haudit
 haudit=hist(audit,breaks=c(10,15,20,25,30,35))
+
+#canswers
+var(canswers) # variance
+sqrt(var(canswers)) #standard deviation
+
