@@ -31,3 +31,8 @@ haudit=hist(audit,breaks=c(10,15,20,25,30,35))
 var(canswers) # variance
 sqrt(var(canswers)) #standard deviation
 
+#marketing
+cov(marketing$commercials,marketing$sales) # covariance
+cor(marketing$commercials,marketing$sales) #correlation
+
+
