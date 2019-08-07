@@ -1,0 +1,7 @@
+Homework 2
+========
+
+Chapter 3: 61, 62 (a, b, c, d), 63,  67, 68 from [DA16].
+Chapter 4: 46, 49, 50, 51 from [DA16].
+Chapter 5, questions: 9, 17, 20, 28, 36 from [DA16].
+Chapter 6, questions: 11, 23 from [DA16].
