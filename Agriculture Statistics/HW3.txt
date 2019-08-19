@@ -1,0 +1,7 @@
+Homework 3
+========
+
+Chapter 7, questions: 13, 20, 26, 44, 48 from [DA16]. 
+Chapter 8, questions: 1, 2, 17, 23, 27 from [DA16]. 
+Chapter 9, questions: 5, 10, 20, 22, 29 from [DA16].
+Chapter 14, questions: 5, 7, 18, 19, 22, 26, 35, 43, 47, 52 from [DA16]. 
