@@ -1,0 +1,180 @@
+\begin{darkframes}
+\section{Building a Dapp}
+\AtBeginSection[x]{
+	\begin{frame}<beamer>
+     		\frametitle{Content of Section  \thesection}
+      		\tableofcontents[currentsection]
+    	\end{frame}}
+
+\begin{frame}{Auctions in the Blockchain}
+	\begin{center}
+	\includegraphics[width=90mm]{resources/wpauctions}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Auctions in the Blockchain}
+Rocket is a Dapp that provides a platform for selling products through the blockchain where a user wants to buy an homogeneous service.
+	\begin{itemize}
+	\item The winner is the one who offers a highest price for the product before some specified time.
+	\item For the auction users observe the initial price, the current price and the time remaining to close the auction. 
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Auctions in the Blockchain}
+	Key idea: programmable money / anonymous participants. 
+	\begin{center}
+	\includegraphics[width=60mm]{resources/auctionc.pdf}
+	\end{center}
+\end{frame}
+
+\begin{frame}{How to use it?}
+	As any internet auction. The participant with the highest bid by the end of the auction takes the product. \\
+	~\\
+	Some differences:
+	\begin{enumerate}
+	\item The bid is payed automatically. 
+	\item Participants are pseudo-anonymous.
+	\item Can auction almost anything.   
+	\end{enumerate}
+\end{frame}
+
+\begin{frame}{Toy Dapp Challenge}
+	Work in groups and Deploy rocket. The first group that finishes get this cryptokittie. Time: 30 minutes.
+	\begin{center}
+	\includegraphics[width=40mm]{resources/mycat}
+	\end{center}
+\end{frame}
+
+\defverbatim[colored]\sleepSort{
+\begin{lstlisting}[language = java,tabsize = 2]
+# update dependencies
+$ sudo apt-get upgrade
+$ sudo apt-get update
+
+# install node 8 or higher  
+$ sudo apt-get install curl
+$ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+  
+# install truffle 
+$ sudo npm install -g truffle@4.1.13
+
+# install the metamask add on
+https://metamask.io
+\end{lstlisting}}
+    
+\begin{frame}{Toy Dapp: setup}
+	\sleepSort
+\end{frame}
+
+
+\defverbatim[colored]\sleepSort{
+\begin{lstlisting}[language = java,tabsize = 2]
+# install test blockchain
+$ sudo npm install -g ganache-cli
+
+# download the contract
+$ git clone https://github.com/esc000658/rocket.git
+
+# start ganache-cli and get private keys
+ganache-cli
+
+# go to metamask, select the proper network and import 3 private keys
+
+# go to the file of the project and deploy it in ganache
+$ truffle compile
+$ truffle migrate --network local --reset
+$ npm run dev
+ \end{lstlisting}}
+    
+\begin{frame}{Toy Dapp: Deployment}
+	\sleepSort
+\end{frame}
+
+\begin{frame}{Toy Dapp: Deployment}
+	\begin{center}
+	\includegraphics[width=90mm]{resources/rockett}
+	\end{center}
+\end{frame}
+
+\defverbatim[colored]\sleepSort{
+\begin{lstlisting}[language = java, tabsize = 2]
+pragma solidity ^0.4.24;
+
+contract Delta {
+    // item data
+    uint starting_price; string item; bool open_game; uint end_time; address owner;
+    // player data
+    string players_name; string players_email; address player_address; uint offered_price;
+    // messages
+    event offer_info(string o_item, uint o_price, address o_address, uint o_ended, bool o_state);
+    event last_bidder(address my_address, string my_email, uint my_monto);
+\end{lstlisting}}
+
+\begin{frame}{Toy Dapp: The Smart Contract}
+	\sleepSort
+\end{frame}
+
+
+\defverbatim[colored]\sleepSort{
+\begin{lstlisting}[language = java, tabsize = 2]
+constructor() public {
+      owner = msg.sender; //temporary data, account of the owner of the item
+      player_address = owner;
+      starting_price = 3 * 1000000000000000000;
+      item = "PROJECT_0X001";
+      open_game = true;
+      end_time = now + (60*60*24*30); //2592000;
+
+      players_name = "Without Participants";
+      players_email = "Not registered";
+      offered_price = 0;
+
+      emit offer_info(item, starting_price, owner, end_time, open_game);
+      emit last_bidder(player_address, "Player email not yet registered", 0);
+    }
+\end{lstlisting}}
+
+\begin{frame}{Toy Dapp: The Smart Contract}
+	\sleepSort
+\end{frame}
+
+\defverbatim[colored]\sleepSort{
+\begin{lstlisting}[language = java, tabsize = 2]
+function make_an_offer (string memory _players_email) public payable{
+      if((msg.value > offered_price) && (msg.value  >= starting_price) && open_game){
+          // return money to the previous player
+          player_address.transfer(address(this).balance-msg.value);
+          // update new player data
+          player_address = msg.sender;
+          players_email = _players_email;
+          offered_price = msg.value;
+          emit last_bidder(player_address, players_email, offered_price);
+      }else{
+        revert();
+      }
+    }
+\end{lstlisting}}
+
+\begin{frame}{Toy Dapp: The Smart Contract}
+	\tiny\sleepSort
+\end{frame}
+
+\defverbatim[colored]\sleepSort{
+\begin{lstlisting}[language = java, tabsize = 2]
+    function finish_auction(uint time) public payable{
+        if(time <= 0){
+            open_game = false;
+            owner.transfer(address(this).balance-msg.value);
+            emit offer_info(item, starting_price, owner, end_time, open_game);
+            emit last_bidder(player_address, players_email, offered_price);
+        }
+    }
+}
+\end{lstlisting}}
+
+\begin{frame}{Toy Dapp: The Smart Contract}
+	\sleepSort
+\end{frame}
+
+\end{darkframes}
