@@ -15,7 +15,7 @@ age2 = age ^ 2;
 age3 = age ^ 3;
 age4 = age ^ 4;
 
-fita = lm(wage ~ age1 + age2 + age3 + age4)
+fita = lm(wage ~ age1 + age2 + age3 + age4,data = Wage)
 fitb = lm(wage ~ cbind(age, age ^ 2, age ^ 3, age ^ 4), data = Wage)
 fitc = lm(wage ~ age + I(age ^ 2) + I(age ^ 3) + I(age ^ 4), data = Wage)
 
@@ -100,7 +100,9 @@ matlines(age.grid, se.bands, lwd = 1, col = "blue", lty = 3)
 
 fit = lm(wage ~ cut(age, 4), data = Wage)
 coef(summary(fit))
-plot(cut(age, 4),fit$fitted,col=2)
+
+plot(cut(age, 4),fit$fitted)
+#17.9, 33.5, 49, 64.5, 80.1
 
 # 6. For the next questions we use the library splines
 
